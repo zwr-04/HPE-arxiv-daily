@@ -512,6 +512,7 @@
 |**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](http://arxiv.org/abs/2408.09409)|null|
 |**2024-08-17**|**Intuitive Human-Robot Interface: A 3-Dimensional Action Recognition and UAV Collaboration Framework**|Akash Chaudhary et.al.|[2408.09232](http://arxiv.org/abs/2408.09232)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
+|**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
 <p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
