@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Human Pose Estimation": 
-        filters: ["Human Pose Estimation", "HPE", "Human Pose", "Pose Estimation"]
+        filters: ["Human Pose Estimation", "HPE", "Human Pose"]
     "Action Recognition": 
         filters: ["Human Action Recognition", "Action Recognition"]
