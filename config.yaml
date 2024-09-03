@@ -23,6 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Human Pose Estimation": 
-        filters: ["human pose estimation", "human pose"]
+        filters: ["human pose estimation", "human pose", "human motion", "human-centric", "3d pose estimation", "2D pose estimation", "shape estimation"]
     "Action Recognition": 
         filters: ["human action recognition", "action recognition"]
+    "Spatial Temporal Modelling":
+        filters: ["spatial-temporal", "spatial-temporal transformer", "spatial temporal"]
