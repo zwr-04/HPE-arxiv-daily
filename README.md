@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
+|**2024-09-03**|**EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision**|Yiming Zhao et.al.|[2409.02224](http://arxiv.org/abs/2409.02224)|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011](http://arxiv.org/abs/2409.02011)|null|
+|**2024-09-03**|**SPiKE: 3D Human Pose from Point Cloud Sequences**|Irene Ballester et.al.|[2409.01879](http://arxiv.org/abs/2409.01879)|**[link](https://github.com/iballester/SPiKE)**|
+|**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
+|**2024-09-02**|**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing**|Xiaolong Wang et.al.|[2409.01086](http://arxiv.org/abs/2409.01086)|null|
+|**2024-09-02**|**Kalman Filtering for Precise Indoor Position and Orientation Estimation Using IMU and Acoustics on Riemannian Manifolds**|Mohammed H. AlSharif et.al.|[2409.01002](http://arxiv.org/abs/2409.01002)|null|
+|**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869](http://arxiv.org/abs/2409.00869)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures**|Xingjian Han et.al.|[2408.16659](http://arxiv.org/abs/2408.16659)|null|
@@ -36,12 +46,21 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910](http://arxiv.org/abs/2409.02910)|null|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|null|
+|**2024-09-04**|**Unfolding Videos Dynamics via Taylor Expansion**|Siyi Chen et.al.|[2409.02371](http://arxiv.org/abs/2409.02371)|null|
+|**2024-09-03**|**ADHD diagnosis based on action characteristics recorded in videos using machine learning**|Yichun Li et.al.|[2409.02274](http://arxiv.org/abs/2409.02274)|null|
+|**2024-09-03**|**Action-Based ADHD Diagnosis in Video**|Yichun Li et.al.|[2409.02261](http://arxiv.org/abs/2409.02261)|null|
+|**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564](http://arxiv.org/abs/2409.01564)|null|
+|**2024-09-02**|**FinePseudo: Improving Pseudo-Labelling through Temporal-Alignablity for Semi-Supervised Fine-Grained Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2409.01448](http://arxiv.org/abs/2409.01448)|null|
+|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|null|
+|**2024-08-31**|**ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment**|Hsiang-Wei Huang et.al.|[2409.00349](http://arxiv.org/abs/2409.00349)|null|
 |**2024-08-29**|**Text-Enhanced Zero-Shot Action Recognition: A training-free approach**|Massimo Bosetti et.al.|[2408.16412](http://arxiv.org/abs/2408.16412)|null|
 |**2024-08-28**|**DEAR: Depth-Enhanced Action Recognition**|Sadegh Rahmaniboldaji et.al.|[2408.15679](http://arxiv.org/abs/2408.15679)|**[link](https://github.com/sadeghrahmanib/dear)**|
 |**2024-08-28**|**Online pre-training with long-form videos**|Itsuki Kato et.al.|[2408.15651](http://arxiv.org/abs/2408.15651)|null|
@@ -53,12 +72,17 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**MOOSS: Mask-Enhanced Temporal Contrastive Learning for Smooth State Evolution in Visual Reinforcement Learning**|Jiarui Sun et.al.|[2409.02714](http://arxiv.org/abs/2409.02714)|**[link](https://github.com/jsun57/mooss)**|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|null|
+|**2024-09-03**|**A Novel Audio-Visual Information Fusion System for Mental Disorders Detection**|Yichun Li et.al.|[2409.02243](http://arxiv.org/abs/2409.02243)|null|
+|**2024-09-03**|**BEVNav: Robot Autonomous Navigation Via Spatial-Temporal Contrastive Learning in Bird's-Eye View**|Jiahao Jiang et.al.|[2409.01646](http://arxiv.org/abs/2409.01646)|null|
+|**2024-08-30**|**Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics**|Zhengru Fang et.al.|[2409.00146](http://arxiv.org/abs/2409.00146)|null|
 |**2024-08-29**|**Discriminative Spatial-Semantic VOS Solution: 1st Place Solution for 6th LSVOS**|Deshui Miao et.al.|[2408.16431](http://arxiv.org/abs/2408.16431)|null|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
@@ -70,7 +94,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
