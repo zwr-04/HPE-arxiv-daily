@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122](http://arxiv.org/abs/2409.11122)|**[link](https://github.com/brytsknguyen/uloc)**|
+|**2024-09-17**|**Depth-based Privileged Information for Boosting 3D Human Pose Estimation on RGB**|Alessandro Simoni et.al.|[2409.11104](http://arxiv.org/abs/2409.11104)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
+|**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815](http://arxiv.org/abs/2409.10815)|null|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
@@ -3573,6 +3579,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Leveraging Connected Vehicle Data for Near-Crash Detection and Analysis in Urban Environments**|Xinyu Li et.al.|[2409.11341](http://arxiv.org/abs/2409.11341)|null|
+|**2024-09-16**|**Safe Interval Motion Planning for Quadrotors in Dynamic Environments**|Songhao Huang et.al.|[2409.10647](http://arxiv.org/abs/2409.10647)|null|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953](http://arxiv.org/abs/2409.09953)|null|
 |**2024-09-15**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627](http://arxiv.org/abs/2409.09627)|null|
