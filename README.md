@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/abs/2409.11920)|null|
+|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
+|**2024-09-18**|**End-to-End Probabilistic Geometry-Guided Regression for 6DoF Object Pose Estimation**|Thomas Pöllabauer et.al.|[2409.11819](http://arxiv.org/abs/2409.11819)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
+|**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
+|**2024-09-18**|**A novel pedestrian road crossing simulator for dynamic traffic light scheduling systems**|Dayuan Tan et.al.|[2409.11623](http://arxiv.org/abs/2409.11623)|null|
+|**2024-09-17**|**Good Grasps Only: A data engine for self-supervised fine-tuning of pose estimation using grasp poses for verification**|Frederik Hagelskjær et.al.|[2409.11512](http://arxiv.org/abs/2409.11512)|null|
 |**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122](http://arxiv.org/abs/2409.11122)|**[link](https://github.com/brytsknguyen/uloc)**|
@@ -93,12 +102,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240920>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867](http://arxiv.org/abs/2409.11867)|null|
+|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513](http://arxiv.org/abs/2409.11513)|**[link](https://github.com/dongzhikang/mambavl)**|
 |**2024-09-15**|**Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition**|Cagri Gungor et.al.|[2409.09611](http://arxiv.org/abs/2409.09611)|null|
 |**2024-09-14**|**KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition**|Zhaoyu Chen et.al.|[2409.09444](http://arxiv.org/abs/2409.09444)|null|
 |**2024-09-14**|**ChildPlay-Hand: A Dataset of Hand Manipulations in the Wild**|Arya Farkhondeh et.al.|[2409.09319](http://arxiv.org/abs/2409.09319)|null|
@@ -128,17 +139,19 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240920>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Spin resolved momentum spectra for vacuum pair production via a generalized two level model**|Orkash Amat et.al.|[2409.11833](http://arxiv.org/abs/2409.11833)|null|
+|**2024-09-18**|**EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning**|Yukun Tian et.al.|[2409.11813](http://arxiv.org/abs/2409.11813)|null|
 |**2024-09-17**|**Leveraging Connected Vehicle Data for Near-Crash Detection and Analysis in Urban Environments**|Xinyu Li et.al.|[2409.11341](http://arxiv.org/abs/2409.11341)|null|
 |**2024-09-16**|**Safe Interval Motion Planning for Quadrotors in Dynamic Environments**|Songhao Huang et.al.|[2409.10647](http://arxiv.org/abs/2409.10647)|null|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953](http://arxiv.org/abs/2409.09953)|null|
-|**2024-09-15**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627](http://arxiv.org/abs/2409.09627)|null|
+|**2024-09-19**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627](http://arxiv.org/abs/2409.09627)|null|
 |**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang et.al.|[2409.09293](http://arxiv.org/abs/2409.09293)|null|
 |**2024-09-13**|**USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s**|Zhuoyuan Li et.al.|[2409.08481](http://arxiv.org/abs/2409.08481)|null|
 |**2024-09-12**|**CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model**|Yang Li et.al.|[2409.07714](http://arxiv.org/abs/2409.07714)|null|
@@ -168,7 +181,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240920>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
