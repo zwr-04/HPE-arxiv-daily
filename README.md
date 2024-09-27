@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
+|**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116](http://arxiv.org/abs/2409.17116)|null|
+|**2024-09-25**|**Self-Sensing for Proprioception and Contact Detection in Soft Robots Using Shape Memory Alloy Artificial Muscles**|Ran Jing et.al.|[2409.17111](http://arxiv.org/abs/2409.17111)|null|
+|**2024-09-25**|**Limitations of (Procrustes) Alignment in Assessing Multi-Person Human Pose and Shape Estimation**|Drazic Martin et.al.|[2409.16861](http://arxiv.org/abs/2409.16861)|null|
+|**2024-09-25**|**Online 6DoF Pose Estimation in Forests using Cross-View Factor Graph Optimisation and Deep Learned Re-localisation**|Lucas Carvalho de Lima et.al.|[2409.16680](http://arxiv.org/abs/2409.16680)|null|
+|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
+|**2024-09-25**|**FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation**|Jingyi Tang et.al.|[2409.16600](http://arxiv.org/abs/2409.16600)|null|
+|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595](http://arxiv.org/abs/2409.16595)|null|
 |**2024-09-24**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
 |**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832](http://arxiv.org/abs/2409.15832)|null|
 |**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727](http://arxiv.org/abs/2409.15727)|null|
@@ -112,12 +120,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration**|Jiazhou Zhou et.al.|[2409.16953](http://arxiv.org/abs/2409.16953)|null|
 |**2024-09-22**|**Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment**|Jidong Kuang et.al.|[2409.14336](http://arxiv.org/abs/2409.14336)|null|
 |**2024-09-21**|**Egocentric zone-aware action recognition across environments**|Simone Alberto Peirone et.al.|[2409.14205](http://arxiv.org/abs/2409.14205)|null|
 |**2024-09-19**|**Interpretable Action Recognition on Hard to Classify Actions**|Anastasia Anichenko et.al.|[2409.13091](http://arxiv.org/abs/2409.13091)|null|
@@ -152,12 +161,15 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Skyeyes: Ground Roaming using Aerial View Images**|Zhiyuan Gao et.al.|[2409.16685](http://arxiv.org/abs/2409.16685)|null|
+|**2024-09-25**|**Efficient and generalizable nested Fourier-DeepONet for three-dimensional geological carbon sequestration**|Jonathan E. Lee et.al.|[2409.16572](http://arxiv.org/abs/2409.16572)|null|
+|**2024-09-25**|**Graph Pruning Based Spatial and Temporal Graph Convolutional Network with Transfer Learning for Traffic Prediction**|Zihao Jing et.al.|[2409.16532](http://arxiv.org/abs/2409.16532)|null|
 |**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/abs/2409.15841)|null|
 |**2024-09-24**|**Spatial-Temporal Mixture-of-Graph-Experts for Multi-Type Crime Prediction**|Ziyang Wu et.al.|[2409.15764](http://arxiv.org/abs/2409.15764)|null|
@@ -204,7 +216,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
