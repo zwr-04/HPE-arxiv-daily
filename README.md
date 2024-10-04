@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618](http://arxiv.org/abs/2410.01618)|null|
+|**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293](http://arxiv.org/abs/2410.01293)|null|
+|**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061](http://arxiv.org/abs/2410.01061)|null|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713](http://arxiv.org/abs/2410.00713)|**[link](https://github.com/kaichen-z/rad)**|
+|**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589](http://arxiv.org/abs/2410.00589)|null|
 |**2024-09-30**|**Continual Human Pose Estimation for Incremental Integration of Keypoints and Pose Variations**|Muhammad Saif Ullah Khan et.al.|[2409.20469](http://arxiv.org/abs/2409.20469)|null|
 |**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237](http://arxiv.org/abs/2409.20237)|null|
 |**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[2409.20223](http://arxiv.org/abs/2409.20223)|null|
@@ -138,12 +143,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669](http://arxiv.org/abs/2410.01669)|null|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083](http://arxiv.org/abs/2409.20083)|null|
 |**2024-09-26**|**SOAR: Self-supervision Optimized UAV Action Recognition with Efficient Object-Aware Pretraining**|Ruiqi Xian et.al.|[2409.18300](http://arxiv.org/abs/2409.18300)|null|
 |**2024-09-26**|**Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition**|Xinpeng Yin et.al.|[2409.17951](http://arxiv.org/abs/2409.17951)|**[link](https://github.com/YinxPeng/HA-CM-main)**|
@@ -183,12 +189,18 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Estimating Atmospheric Wind Speeds From Gemini Planet Imager AO Telemetry**|Zhenxi Du et.al.|[2410.01193](http://arxiv.org/abs/2410.01193)|null|
+|**2024-09-30**|**Real-time Diverse Motion In-betweening with Space-time Control**|Yuchen Chu et.al.|[2410.00270](http://arxiv.org/abs/2410.00270)|null|
+|**2024-09-30**|**Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation**|Kun Yuan et.al.|[2410.00263](http://arxiv.org/abs/2410.00263)|null|
+|**2024-09-30**|**ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning**|Jian Shi et.al.|[2410.00262](http://arxiv.org/abs/2410.00262)|null|
+|**2024-09-29**|**STTM: A New Approach Based Spatial-Temporal Transformer And Memory Network For Real-time Pressure Signal In On-demand Food Delivery**|Jiang Wang et.al.|[2410.00057](http://arxiv.org/abs/2410.00057)|null|
+|**2024-09-28**|**Transferable Unsupervised Outlier Detection Framework for Human Semantic Trajectories**|Zheng Zhang et.al.|[2410.00054](http://arxiv.org/abs/2410.00054)|null|
 |**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365](http://arxiv.org/abs/2409.20365)|null|
 |**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[2409.20223](http://arxiv.org/abs/2409.20223)|null|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083](http://arxiv.org/abs/2409.20083)|null|
@@ -247,7 +259,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
