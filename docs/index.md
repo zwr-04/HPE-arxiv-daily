@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.05
+## Updated on 2024.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3645,7 +3645,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**Labor Migration Modeling through Large-scale Job Query Data**|Zhuoning Guo et.al.|[2410.02639](http://arxiv.org/abs/2410.02639)|null|
-|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|null|
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-10-03**|**Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems**|Guibin Zhang et.al.|[2410.02506](http://arxiv.org/abs/2410.02506)|null|
 |**2024-10-02**|**Estimating Atmospheric Wind Speeds From Gemini Planet Imager AO Telemetry**|Zhenxi Du et.al.|[2410.01193](http://arxiv.org/abs/2410.01193)|null|
 |**2024-09-30**|**Real-time Diverse Motion In-betweening with Space-time Control**|Yuchen Chu et.al.|[2410.00270](http://arxiv.org/abs/2410.00270)|null|
