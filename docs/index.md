@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation**|Felix Petersen et.al.|[2410.08125](http://arxiv.org/abs/2410.08125)|null|
+|**2024-10-10**|**Online DNN-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment**|Giulio Romualdi et.al.|[2410.07849](http://arxiv.org/abs/2410.07849)|null|
+|**2024-10-10**|**Robotic framework for autonomous manipulation of laboratory equipment with different degrees of transparency via 6D pose estimation**|Maria Makarova et.al.|[2410.07801](http://arxiv.org/abs/2410.07801)|null|
+|**2024-10-10**|**Optimal-State Dynamics Estimation for Physics-based Human Motion Capture from Videos**|Cuong Le et.al.|[2410.07795](http://arxiv.org/abs/2410.07795)|**[link](https://github.com/cuongle1206/osdcap)**|
+|**2024-10-10**|**Autonomous Driving in Unstructured Environments: How Far Have We Come?**|Chen Min et.al.|[2410.07701](http://arxiv.org/abs/2410.07701)|null|
+|**2024-10-10**|**Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**|Minxing Zhang et.al.|[2410.07670](http://arxiv.org/abs/2410.07670)|null|
+|**2024-10-10**|**Generalization Ability Analysis of Through-the-Wall Radar Human Activity Recognition**|Weicheng Gao et.al.|[2410.07543](http://arxiv.org/abs/2410.07543)|null|
+|**2024-10-09**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
 |**2024-10-09**|**LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**|Zhe Li et.al.|[2410.07093](http://arxiv.org/abs/2410.07093)|null|
 |**2024-10-09**|**OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB**|Yunzhi Lin et.al.|[2410.06694](http://arxiv.org/abs/2410.06694)|null|
 |**2024-10-09**|**LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality**|Kojiro Takeyama et.al.|[2410.06437](http://arxiv.org/abs/2410.06437)|**[link](https://github.com/kojirotakeyama/locovr)**|
@@ -3625,6 +3633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153](http://arxiv.org/abs/2410.07153)|**[link](https://github.com/Necolizer/CHASE)**|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698](http://arxiv.org/abs/2410.06698)|null|
 |**2024-10-08**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
@@ -3675,6 +3684,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547](http://arxiv.org/abs/2410.07547)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-08**|**Grounding is All You Need? Dual Temporal Grounding for Video Dialog**|You Qin et.al.|[2410.05767](http://arxiv.org/abs/2410.05767)|null|
 |**2024-10-08**|**When Graph Neural Networks Meet Dynamic Mode Decomposition**|Dai Shi et.al.|[2410.05593](http://arxiv.org/abs/2410.05593)|null|
