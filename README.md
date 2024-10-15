@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,11 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation**|Jianyu Zhao et.al.|[2410.09010](http://arxiv.org/abs/2410.09010)|**[link](https://github.com/jzhao12/cvam-pose)**|
+|**2024-10-11**|**Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing**|Clayton Leite et.al.|[2410.08931](http://arxiv.org/abs/2410.08931)|null|
+|**2024-10-11**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|null|
+|**2024-10-11**|**Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization**|Christian Schmidt et.al.|[2410.08743](http://arxiv.org/abs/2410.08743)|**[link](https://github.com/schmiddo/noposegs)**|
+|**2024-10-10**|**Zonal shape reconstruction for Shack-Hartmann sensors and deflectometry**|Jonquiere Hugo et.al.|[2410.08291](http://arxiv.org/abs/2410.08291)|null|
 |**2024-10-10**|**Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation**|Felix Petersen et.al.|[2410.08125](http://arxiv.org/abs/2410.08125)|null|
 |**2024-10-10**|**Online DNN-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment**|Giulio Romualdi et.al.|[2410.07849](http://arxiv.org/abs/2410.07849)|null|
 |**2024-10-10**|**Robotic framework for autonomous manipulation of laboratory equipment with different degrees of transparency via 6D pose estimation**|Maria Makarova et.al.|[2410.07801](http://arxiv.org/abs/2410.07801)|null|
 |**2024-10-10**|**Optimal-State Dynamics Estimation for Physics-based Human Motion Capture from Videos**|Cuong Le et.al.|[2410.07795](http://arxiv.org/abs/2410.07795)|**[link](https://github.com/cuongle1206/osdcap)**|
-|**2024-10-10**|**Autonomous Driving in Unstructured Environments: How Far Have We Come?**|Chen Min et.al.|[2410.07701](http://arxiv.org/abs/2410.07701)|null|
+|**2024-10-12**|**Autonomous Driving in Unstructured Environments: How Far Have We Come?**|Chen Min et.al.|[2410.07701](http://arxiv.org/abs/2410.07701)|null|
 |**2024-10-10**|**Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**|Minxing Zhang et.al.|[2410.07670](http://arxiv.org/abs/2410.07670)|null|
 |**2024-10-10**|**Generalization Ability Analysis of Through-the-Wall Radar Human Activity Recognition**|Weicheng Gao et.al.|[2410.07543](http://arxiv.org/abs/2410.07543)|null|
 |**2024-10-09**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
@@ -180,18 +185,19 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-grained Motor Behavior Recognition**|Cheng Liu et.al.|[2410.08410](http://arxiv.org/abs/2410.08410)|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153](http://arxiv.org/abs/2410.07153)|**[link](https://github.com/Necolizer/CHASE)**|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698](http://arxiv.org/abs/2410.06698)|null|
 |**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
 |**2024-10-04**|**Shadow Augmentation for Handwashing Action Recognition: from Synthetic to Real Datasets**|Shengtai Ju et.al.|[2410.03984](http://arxiv.org/abs/2410.03984)|null|
-|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302](http://arxiv.org/abs/2410.03302)|**[link](https://github.com/thanhhff/MultiASL)**|
+|**2024-10-13**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302](http://arxiv.org/abs/2410.03302)|**[link](https://github.com/thanhhff/MultiASL)**|
 |**2024-10-02**|**Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case**|Mohammad Mahdavian et.al.|[2410.01962](http://arxiv.org/abs/2410.01962)|null|
 |**2024-10-02**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669](http://arxiv.org/abs/2410.01669)|**[link](https://github.com/andrea-cavallo-98/sparse-vnn)**|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083](http://arxiv.org/abs/2409.20083)|null|
@@ -233,7 +239,7 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
@@ -246,7 +252,7 @@
 |**2024-10-07**|**xLSTM-FER: Enhancing Student Expression Recognition with Extended Vision Long Short-Term Memory Network**|Qionghao Huang et.al.|[2410.05074](http://arxiv.org/abs/2410.05074)|null|
 |**2024-10-07**|**PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners**|Yujin Tang et.al.|[2410.04733](http://arxiv.org/abs/2410.04733)|**[link](https://github.com/yyyujintang/predformer)**|
 |**2024-10-04**|**SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation**|Amir Eskandari et.al.|[2410.03954](http://arxiv.org/abs/2410.03954)|null|
-|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302](http://arxiv.org/abs/2410.03302)|**[link](https://github.com/thanhhff/MultiASL)**|
+|**2024-10-13**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302](http://arxiv.org/abs/2410.03302)|**[link](https://github.com/thanhhff/MultiASL)**|
 |**2024-10-03**|**Labor Migration Modeling through Large-scale Job Query Data**|Zhuoning Guo et.al.|[2410.02639](http://arxiv.org/abs/2410.02639)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-10-03**|**Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems**|Guibin Zhang et.al.|[2410.02506](http://arxiv.org/abs/2410.02506)|null|
@@ -314,7 +320,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
