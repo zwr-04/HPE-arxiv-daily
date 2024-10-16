@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,9 +3461,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
+|**2024-10-14**|**DR-MPC: Deep Residual Model Predictive Control for Real-world Social Navigation**|James R. Han et.al.|[2410.10646](http://arxiv.org/abs/2410.10646)|null|
+|**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167](http://arxiv.org/abs/2410.10167)|null|
+|**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885](http://arxiv.org/abs/2410.09885)|null|
+|**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467](http://arxiv.org/abs/2410.09467)|null|
+|**2024-10-12**|**Towards Multi-Modal Animal Pose Estimation: An In-Depth Analysis**|Qianyi Deng et.al.|[2410.09312](http://arxiv.org/abs/2410.09312)|**[link](https://github.com/chennydeng/mm-ape)**|
 |**2024-10-11**|**CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation**|Jianyu Zhao et.al.|[2410.09010](http://arxiv.org/abs/2410.09010)|**[link](https://github.com/jzhao12/cvam-pose)**|
 |**2024-10-11**|**Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing**|Clayton Leite et.al.|[2410.08931](http://arxiv.org/abs/2410.08931)|null|
-|**2024-10-11**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|null|
+|**2024-10-11**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|**[link](https://github.com/aghyad-deeb/unlearning_evaluation)**|
 |**2024-10-11**|**Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization**|Christian Schmidt et.al.|[2410.08743](http://arxiv.org/abs/2410.08743)|**[link](https://github.com/schmiddo/noposegs)**|
 |**2024-10-10**|**Zonal shape reconstruction for Shack-Hartmann sensors and deflectometry**|Jonquiere Hugo et.al.|[2410.08291](http://arxiv.org/abs/2410.08291)|null|
 |**2024-10-10**|**Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation**|Felix Petersen et.al.|[2410.08125](http://arxiv.org/abs/2410.08125)|null|
@@ -3638,11 +3644,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Continual Learning Improves Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2410.10497](http://arxiv.org/abs/2410.10497)|null|
+|**2024-10-13**|**EITNet: An IoT-Enhanced Framework for Real-Time Basketball Action Recognition**|Jingyu Liu et.al.|[2410.09954](http://arxiv.org/abs/2410.09954)|null|
+|**2024-10-13**|**Multi class activity classification in videos using Motion History Image generation**|Senthilkumar Gopal et.al.|[2410.09902](http://arxiv.org/abs/2410.09902)|**[link](https://github.com/sengopal/cv-activity-classification)**|
 |**2024-10-10**|**Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-grained Motor Behavior Recognition**|Cheng Liu et.al.|[2410.08410](http://arxiv.org/abs/2410.08410)|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153](http://arxiv.org/abs/2410.07153)|**[link](https://github.com/Necolizer/CHASE)**|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698](http://arxiv.org/abs/2410.06698)|null|
-|**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
+|**2024-10-15**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774](http://arxiv.org/abs/2410.05774)|null|
 |**2024-10-04**|**Shadow Augmentation for Handwashing Action Recognition: from Synthetic to Real Datasets**|Shengtai Ju et.al.|[2410.03984](http://arxiv.org/abs/2410.03984)|null|
 |**2024-10-13**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302](http://arxiv.org/abs/2410.03302)|**[link](https://github.com/thanhhff/MultiASL)**|
 |**2024-10-02**|**Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case**|Mohammad Mahdavian et.al.|[2410.01962](http://arxiv.org/abs/2410.01962)|null|
@@ -3690,6 +3699,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
+|**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[2410.10429](http://arxiv.org/abs/2410.10429)|null|
+|**2024-10-14**|**4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting**|Wanlin Liang et.al.|[2410.10412](http://arxiv.org/abs/2410.10412)|null|
+|**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
+|**2024-10-12**|**Fusion Matrix Prompt Enhanced Self-Attention Spatial-Temporal Interactive Traffic Forecasting Framework**|Mu Liu et.al.|[2410.09356](http://arxiv.org/abs/2410.09356)|null|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547](http://arxiv.org/abs/2410.07547)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
 |**2024-10-08**|**Grounding is All You Need? Dual Temporal Grounding for Video Dialog**|You Qin et.al.|[2410.05767](http://arxiv.org/abs/2410.05767)|null|
