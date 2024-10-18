@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
+|**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679](http://arxiv.org/abs/2410.12679)|null|
+|**2024-10-16**|**Fast Online Learning of CLiFF-maps in Changing Environments**|Yufei Zhu et.al.|[2410.12237](http://arxiv.org/abs/2410.12237)|null|
+|**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834](http://arxiv.org/abs/2410.11834)|null|
 |**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792](http://arxiv.org/abs/2410.11792)|null|
 |**2024-10-15**|**MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description**|Jiawei Mo et.al.|[2410.11404](http://arxiv.org/abs/2410.11404)|null|
@@ -194,7 +198,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -251,12 +255,14 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**NSSI-Net: Multi-Concept Generative Adversarial Network for Non-Suicidal Self-Injury Detection Using High-Dimensional EEG Signals in a Semi-Supervised Learning Framework**|Zhen Liang et.al.|[2410.12159](http://arxiv.org/abs/2410.12159)|null|
+|**2024-10-15**|**Spatial-Temporal Bearing Fault Detection Using Graph Attention Networks and LSTM**|Moirangthem Tiken Singh et.al.|[2410.11923](http://arxiv.org/abs/2410.11923)|null|
 |**2024-10-14**|**Graph Masked Autoencoder for Spatio-Temporal Graph Learning**|Qianru Zhang et.al.|[2410.10915](http://arxiv.org/abs/2410.10915)|null|
 |**2024-10-16**|**Free Video-LLM: Prompt-guided Visual Perception for Efficient Training-free Video LLMs**|Kai Han et.al.|[2410.10441](http://arxiv.org/abs/2410.10441)|**[link](https://github.com/contrastive/freevideollm)**|
 |**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[2410.10429](http://arxiv.org/abs/2410.10429)|null|
@@ -338,7 +344,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
