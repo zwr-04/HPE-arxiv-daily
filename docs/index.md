@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|null|
+|**2024-11-04**|**MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence**|Fuming You et.al.|[2411.01805](http://arxiv.org/abs/2411.01805)|null|
+|**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
+|**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443](http://arxiv.org/abs/2411.01443)|null|
+|**2024-11-03**|**Online Relational Inference for Evolving Multi-agent Interacting Systems**|Beomseok Kang et.al.|[2411.01442](http://arxiv.org/abs/2411.01442)|null|
+|**2024-11-04**|**3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction**|Jongmin Lee et.al.|[2411.00543](http://arxiv.org/abs/2411.00543)|null|
+|**2024-10-31**|**Whole-Herd Elephant Pose Estimation from Drone Data for Collective Behavior Analysis**|Brody McNutt et.al.|[2411.00196](http://arxiv.org/abs/2411.00196)|null|
+|**2024-10-31**|**Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations**|David Schneider et.al.|[2411.00128](http://arxiv.org/abs/2411.00128)|null|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|**[link](https://github.com/cvg/NoPoSplat)**|
 |**2024-10-31**|**Extended Object Tracking and Classification based on Linear Splines**|Matteo Tesori et.al.|[2410.24183](http://arxiv.org/abs/2410.24183)|null|
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037](http://arxiv.org/abs/2410.24037)|null|
@@ -3690,6 +3698,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065](http://arxiv.org/abs/2411.02065)|null|
+|**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769](http://arxiv.org/abs/2411.01769)|null|
+|**2024-10-30**|**A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage**|Levi Harris et.al.|[2411.00862](http://arxiv.org/abs/2411.00862)|null|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630](http://arxiv.org/abs/2411.00630)|null|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806](http://arxiv.org/abs/2410.23806)|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641](http://arxiv.org/abs/2410.23641)|null|
 |**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862](http://arxiv.org/abs/2410.22862)|null|
@@ -3760,6 +3772,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas**|Qingwen Pu et.al.|[2411.02349](http://arxiv.org/abs/2411.02349)|null|
+|**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
+|**2024-11-03**|**PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting**|Yanlong Wang et.al.|[2411.01419](http://arxiv.org/abs/2411.01419)|null|
+|**2024-11-02**|**ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations**|Mingze Gong et.al.|[2411.01267](http://arxiv.org/abs/2411.01267)|null|
+|**2024-10-30**|**Extralonger: Toward a Unified Perspective of Spatial-Temporal Factors for Extra-Long-Term Traffic Forecasting**|Zhiwei Zhang et.al.|[2411.00844](http://arxiv.org/abs/2411.00844)|null|
+|**2024-11-01**|**Generalized coherent wave control at dynamic interfaces**|Youxiu Yu et.al.|[2411.00574](http://arxiv.org/abs/2411.00574)|null|
+|**2024-10-31**|**PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**|Matthew Chang et.al.|[2411.00081](http://arxiv.org/abs/2411.00081)|null|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806](http://arxiv.org/abs/2410.23806)|null|
 |**2024-10-31**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938](http://arxiv.org/abs/2410.22938)|**[link](https://github.com/lokol5579/DiffLight-release)**|
 |**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
