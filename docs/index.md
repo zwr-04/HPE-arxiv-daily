@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,11 +3461,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|null|
+|**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
+|**2024-11-04**|**Multi-Transmotion: Pre-trained Model for Human Motion Prediction**|Yang Gao et.al.|[2411.02673](http://arxiv.org/abs/2411.02673)|**[link](https://github.com/vita-epfl/multi-transmotion)**|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|**[link](https://github.com/izakariyya/idg-dp)**|
 |**2024-11-04**|**MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence**|Fuming You et.al.|[2411.01805](http://arxiv.org/abs/2411.01805)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443](http://arxiv.org/abs/2411.01443)|null|
-|**2024-11-03**|**Online Relational Inference for Evolving Multi-agent Interacting Systems**|Beomseok Kang et.al.|[2411.01442](http://arxiv.org/abs/2411.01442)|null|
+|**2024-11-03**|**Online Relational Inference for Evolving Multi-agent Interacting Systems**|Beomseok Kang et.al.|[2411.01442](http://arxiv.org/abs/2411.01442)|**[link](https://github.com/beomseokg/ORI)**|
 |**2024-11-04**|**3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction**|Jongmin Lee et.al.|[2411.00543](http://arxiv.org/abs/2411.00543)|null|
 |**2024-10-31**|**Whole-Herd Elephant Pose Estimation from Drone Data for Collective Behavior Analysis**|Brody McNutt et.al.|[2411.00196](http://arxiv.org/abs/2411.00196)|null|
 |**2024-10-31**|**Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations**|David Schneider et.al.|[2411.00128](http://arxiv.org/abs/2411.00128)|null|
@@ -3701,7 +3703,7 @@ layout: default
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065](http://arxiv.org/abs/2411.02065)|null|
 |**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769](http://arxiv.org/abs/2411.01769)|null|
 |**2024-10-30**|**A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage**|Levi Harris et.al.|[2411.00862](http://arxiv.org/abs/2411.00862)|null|
-|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630](http://arxiv.org/abs/2411.00630)|null|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630](http://arxiv.org/abs/2411.00630)|**[link](https://github.com/ZeruiW/VideoXAI)**|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806](http://arxiv.org/abs/2410.23806)|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641](http://arxiv.org/abs/2410.23641)|null|
 |**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862](http://arxiv.org/abs/2410.22862)|null|
