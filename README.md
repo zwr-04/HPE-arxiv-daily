@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,10 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
+|**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497](http://arxiv.org/abs/2411.05497)|null|
+|**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481](http://arxiv.org/abs/2411.05481)|null|
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598](http://arxiv.org/abs/2411.04598)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
 |**2024-11-07**|**ProGraph: Temporally-alignable Probability Guided Graph Topological Modeling for 3D Human Reconstruction**|Hongsheng Wang et.al.|[2411.04399](http://arxiv.org/abs/2411.04399)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-06**|**UnityGraph: Unified Learning of Spatio-temporal features for Multi-person Motion Prediction**|Kehua Qu et.al.|[2411.04151](http://arxiv.org/abs/2411.04151)|null|
 |**2024-11-06**|**Object-Centric Dexterous Manipulation from Human Motion Data**|Yuanpei Chen et.al.|[2411.04005](http://arxiv.org/abs/2411.04005)|null|
 |**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
@@ -256,12 +260,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Video RWKV:Video Action Recognition Based RWKV**|Zhuowen Yin et.al.|[2411.05636](http://arxiv.org/abs/2411.05636)|null|
 |**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714](http://arxiv.org/abs/2411.03714)|**[link](https://github.com/deepinmotion/shapgcn)**|
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065](http://arxiv.org/abs/2411.02065)|null|
 |**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769](http://arxiv.org/abs/2411.01769)|null|
@@ -333,16 +338,18 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692](http://arxiv.org/abs/2411.05692)|**[link](https://github.com/rayabhisek123/autoregad-hgformer)**|
+|**2024-11-08**|**WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making**|Zhilong Zhang et.al.|[2411.05619](http://arxiv.org/abs/2411.05619)|null|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706](http://arxiv.org/abs/2411.04706)|null|
 |**2024-11-07**|**Fate of the spatial-temporal order under quantum fluctuation**|Xiaotian Nie et.al.|[2411.04687](http://arxiv.org/abs/2411.04687)|null|
-|**2024-11-04**|**Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas**|Qingwen Pu et.al.|[2411.02349](http://arxiv.org/abs/2411.02349)|**[link](https://github.com/qpu523/high-density-intersection-dataset)**|
+|**2024-11-09**|**Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas**|Qingwen Pu et.al.|[2411.02349](http://arxiv.org/abs/2411.02349)|**[link](https://github.com/qpu523/high-density-intersection-dataset)**|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
 |**2024-11-03**|**PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting**|Yanlong Wang et.al.|[2411.01419](http://arxiv.org/abs/2411.01419)|null|
 |**2024-11-02**|**ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations**|Mingze Gong et.al.|[2411.01267](http://arxiv.org/abs/2411.01267)|null|
@@ -454,7 +461,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
