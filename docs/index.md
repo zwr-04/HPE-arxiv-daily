@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|null|
+|**2024-11-18**|**DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery**|Jaewoo Heo et.al.|[2411.11214](http://arxiv.org/abs/2411.11214)|null|
+|**2024-11-15**|**Motion Diffusion-Guided 3D Global HMR from a Dynamic Camera**|Jaewoo Heo et.al.|[2411.10582](http://arxiv.org/abs/2411.10582)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**Y-MAP-Net: Real-time depth, normals, segmentation, multi-label captioning and 2D human pose in RGB images**|Ammar Qammaz et.al.|[2411.10334](http://arxiv.org/abs/2411.10334)|null|
 |**2024-11-15**|**Try-On-Adapter: A Simple and Flexible Try-On Paradigm**|Hanzhong Guo et.al.|[2411.10187](http://arxiv.org/abs/2411.10187)|null|
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435](http://arxiv.org/abs/2411.09435)|null|
@@ -3732,6 +3736,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Video-to-Task Learning via Motion-Guided Attention for Few-Shot Action Recognition**|Hanyu Guo et.al.|[2411.11335](http://arxiv.org/abs/2411.11335)|null|
+|**2024-11-18**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288](http://arxiv.org/abs/2411.11288)|null|
+|**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223](http://arxiv.org/abs/2411.11223)|null|
+|**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/abs/2411.10745)|null|
 |**2024-11-10**|**Extended multi-stream temporal-attention module for skeleton-based human action recognition (HAR)**|Faisal Mehmood et.al.|[2411.06553](http://arxiv.org/abs/2411.06553)|null|
 |**2024-11-08**|**Video RWKV:Video Action Recognition Based RWKV**|Zhuowen Yin et.al.|[2411.05636](http://arxiv.org/abs/2411.05636)|null|
 |**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714](http://arxiv.org/abs/2411.03714)|**[link](https://github.com/deepinmotion/shapgcn)**|
@@ -3809,6 +3817,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
+|**2024-11-18**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288](http://arxiv.org/abs/2411.11288)|null|
+|**2024-11-17**|**Skeleton-Guided Spatial-Temporal Feature Learning for Video-Based Visible-Infrared Person Re-Identification**|Wenjia Jiang et.al.|[2411.11069](http://arxiv.org/abs/2411.11069)|null|
+|**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
 |**2024-11-15**|**A Multi-Scale Spatial-Temporal Network for Wireless Video Transmission**|Xinyi Zhou et.al.|[2411.09936](http://arxiv.org/abs/2411.09936)|null|
 |**2024-11-13**|**Inference-Aware State Reconstruction for Industrial Metaverse under Synchronous/Asynchronous Short-Packet Transmission**|Qinqin Xiong et.al.|[2411.08413](http://arxiv.org/abs/2411.08413)|null|
 |**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
