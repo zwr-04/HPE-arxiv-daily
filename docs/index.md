@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
+|**2024-11-26**|**FTMoMamba: Motion Generation with Frequency and Text State Space Models**|Chengjian Li et.al.|[2411.17532](http://arxiv.org/abs/2411.17532)|null|
+|**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
+|**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240](http://arxiv.org/abs/2411.17240)|null|
+|**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
+|**2024-11-26**|**GMFlow: Global Motion-Guided Recurrent Flow for 6D Object Pose Estimation**|Xin Liu et.al.|[2411.17174](http://arxiv.org/abs/2411.17174)|null|
+|**2024-11-27**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964](http://arxiv.org/abs/2411.16964)|null|
+|**2024-11-25**|**Statistical Emulation of Human Operational Motions**|Yanliang Chen et.al.|[2411.16929](http://arxiv.org/abs/2411.16929)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**Edge Weight Prediction For Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2411.16665](http://arxiv.org/abs/2411.16665)|**[link](https://github.com/orhir/EdgeCape)**|
 |**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
@@ -3765,6 +3773,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584](http://arxiv.org/abs/2411.17584)|**[link](https://github.com/davidsvy/fractal_video)**|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729](http://arxiv.org/abs/2411.15729)|**[link](https://github.com/The-Martyr/OccludeNet-Dataset)**|
 |**2024-11-22**|**When Spatial meets Temporal in Action Recognition**|Huilin Chen et.al.|[2411.15284](http://arxiv.org/abs/2411.15284)|null|
 |**2024-11-22**|**Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**|Youwei Zhou et.al.|[2411.14796](http://arxiv.org/abs/2411.14796)|null|
@@ -3851,8 +3860,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
+|**2024-11-26**|**DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
+|**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
-|**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|null|
+|**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|**[link](https://github.com/dixin-lab/bfvr-stc)**|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
 |**2024-11-25**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312](http://arxiv.org/abs/2411.16312)|null|
 |**2024-11-25**|**Cosmological Constant Suppression in Non-Stationary Scalar Covariant State**|A. Aynbund et.al.|[2411.16181](http://arxiv.org/abs/2411.16181)|null|
