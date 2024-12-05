@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis**|Jingyu Gong et.al.|[2412.02261](http://arxiv.org/abs/2412.02261)|null|
+|**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254](http://arxiv.org/abs/2412.02254)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|null|
+|**2024-12-03**|**CLERF: Contrastive LEaRning for Full Range Head Pose Estimation**|Ting-Ruen Wei et.al.|[2412.02066](http://arxiv.org/abs/2412.02066)|null|
+|**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
+|**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562](http://arxiv.org/abs/2412.01562)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
+|**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543](http://arxiv.org/abs/2412.01543)|null|
+|**2024-12-02**|**HandOS: 3D Hand Reconstruction in One Stage**|Xingyu Chen et.al.|[2412.01537](http://arxiv.org/abs/2412.01537)|null|
+|**2024-12-02**|**3D Spine Shape Estimation from Single 2D DXA**|Emmanuelle Bourigault et.al.|[2412.01504](http://arxiv.org/abs/2412.01504)|null|
+|**2024-12-02**|**SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames**|Yuxuan Zhou et.al.|[2412.01500](http://arxiv.org/abs/2412.01500)|null|
 |**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786](http://arxiv.org/abs/2411.19786)|null|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
 |**2024-12-02**|**DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding**|Jungbin Cho et.al.|[2411.19527](http://arxiv.org/abs/2411.19527)|null|
@@ -3789,6 +3799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544](http://arxiv.org/abs/2411.19544)|null|
 |**2024-11-28**|**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**|Yilong Wang et.al.|[2411.19041](http://arxiv.org/abs/2411.19041)|null|
 |**2024-11-28**|**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2411.18941](http://arxiv.org/abs/2411.18941)|**[link](https://github.com/firework8/ProtoGCN)**|
@@ -3881,6 +3892,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Scalable Analysis of Urban Scaling Laws: Leveraging Cloud Computing to Analyze 21,280 Global Cities**|Zhenhui Li et.al.|[2412.02299](http://arxiv.org/abs/2412.02299)|null|
+|**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
+|**2024-12-02**|**Unlocking Video-LLM via Agent-of-Thoughts Distillation**|Yudi Shi et.al.|[2412.01694](http://arxiv.org/abs/2412.01694)|null|
+|**2024-12-02**|**CPA: Camera-pose-awareness Diffusion Transformer for Video Generation**|Yuelei Wang et.al.|[2412.01429](http://arxiv.org/abs/2412.01429)|null|
+|**2024-11-30**|**Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation**|Muqing Cao et.al.|[2412.00555](http://arxiv.org/abs/2412.00555)|null|
+|**2024-11-30**|**Bi-Band ECoGNet for ECoG Decoding on Classification Task**|Changqing Ji et.al.|[2412.00378](http://arxiv.org/abs/2412.00378)|null|
+|**2024-11-30**|**HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting**|Shaohan Yu et.al.|[2412.00316](http://arxiv.org/abs/2412.00316)|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544](http://arxiv.org/abs/2411.19544)|null|
 |**2024-11-27**|**Conditional Density Estimation with Neural Networks for Bias Correction of Multivariate Climate Model Data**|Reetam Majumder et.al.|[2411.18799](http://arxiv.org/abs/2411.18799)|null|
 |**2024-11-27**|**DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model**|Xinyu Su et.al.|[2411.18286](http://arxiv.org/abs/2411.18286)|null|
