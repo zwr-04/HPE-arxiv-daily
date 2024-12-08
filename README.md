@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -355,7 +355,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -451,7 +451,7 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
@@ -459,7 +459,7 @@
 |---|---|---|---|---|
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|**[link](https://github.com/jaegercq/4d-slingbag)**|
-|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|null|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|
 |**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
 |**2024-12-05**|**PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm**|Tianyu Chang et.al.|[2412.03021](http://arxiv.org/abs/2412.03021)|null|
 |**2024-12-04**|**STDCformer: A Transformer-Based Model with a Spatial-Temporal Causal De-Confounding Strategy for Crowd Flow Prediction**|Silu He et.al.|[2412.02942](http://arxiv.org/abs/2412.02942)|null|
@@ -620,7 +620,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

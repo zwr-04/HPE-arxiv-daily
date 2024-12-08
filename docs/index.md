@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3904,7 +3904,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|**[link](https://github.com/jaegercq/4d-slingbag)**|
-|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|null|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|
 |**2024-12-04**|**Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**|Hannan Lu et.al.|[2412.03520](http://arxiv.org/abs/2412.03520)|null|
 |**2024-12-05**|**PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm**|Tianyu Chang et.al.|[2412.03021](http://arxiv.org/abs/2412.03021)|null|
 |**2024-12-04**|**STDCformer: A Transformer-Based Model with a Spatial-Temporal Causal De-Confounding Strategy for Crowd Flow Prediction**|Silu He et.al.|[2412.02942](http://arxiv.org/abs/2412.02942)|null|
