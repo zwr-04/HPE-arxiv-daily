@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Text to Blind Motion**|Hee Jae Kim et.al.|[2412.05277](http://arxiv.org/abs/2412.05277)|null|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
+|**2024-12-06**|**Assessing Similarity Measures for the Evaluation of Human-Robot Motion Correspondence**|Charles Dietzel et.al.|[2412.04820](http://arxiv.org/abs/2412.04820)|null|
+|**2024-12-05**|**ProPLIKS: Probablistic 3D human body pose estimation**|Karthik Shetty et.al.|[2412.04665](http://arxiv.org/abs/2412.04665)|null|
+|**2024-12-05**|**Generating Whole-Body Avoidance Motion through Localized Proximity Sensing**|Simone Borelli et.al.|[2412.04649](http://arxiv.org/abs/2412.04649)|null|
 |**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
 |**2024-12-05**|**RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse**|Zhouyingcheng Liao et.al.|[2412.04343](http://arxiv.org/abs/2412.04343)|null|
 |**2024-12-05**|**Targeted Hard Sample Synthesis Based on Estimated Pose and Occlusion Error for Improved Object Pose Estimation**|Alan Li et.al.|[2412.04279](http://arxiv.org/abs/2412.04279)|null|
@@ -355,12 +360,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
+|**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783](http://arxiv.org/abs/2412.04783)|null|
 |**2024-12-03**|**Proximal Control of UAVs with Federated Learning for Human-Robot Collaborative Domains**|Lucas Nogueira Nobrega et.al.|[2412.02863](http://arxiv.org/abs/2412.02863)|null|
 |**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544](http://arxiv.org/abs/2411.19544)|null|
@@ -451,12 +458,14 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
+|**2024-12-06**|**An Experimental Evaluation of Imputation Models for Spatial-Temporal Traffic Data**|Shengnan Guo et.al.|[2412.04733](http://arxiv.org/abs/2412.04733)|null|
 |**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898](http://arxiv.org/abs/2412.03898)|**[link](https://github.com/jaegercq/4d-slingbag)**|
 |**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565](http://arxiv.org/abs/2412.03565)|**[link](https://github.com/inst-it/inst-it)**|
@@ -620,7 +629,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
