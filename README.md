@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|null|
+|**2024-12-16**|**Multi-Scale Incremental Modeling for Enhanced Human Motion Prediction in Human-Robot Collaboration**|Juncheng Zou et.al.|[2412.11632](http://arxiv.org/abs/2412.11632)|null|
+|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
+|**2024-12-16**|**Visual IRL for Human-Like Robotic Manipulation**|Ehsan Asali et.al.|[2412.11360](http://arxiv.org/abs/2412.11360)|null|
+|**2024-12-15**|**GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control**|Mariam Hassan et.al.|[2412.11198](http://arxiv.org/abs/2412.11198)|null|
+|**2024-12-15**|**Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation**|Ling-An Zeng et.al.|[2412.11193](http://arxiv.org/abs/2412.11193)|null|
+|**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
+|**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
+|**2024-12-13**|**The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion**|Changan Chen et.al.|[2412.10523](http://arxiv.org/abs/2412.10523)|null|
 |**2024-12-13**|**EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling**|Songpengcheng Xia et.al.|[2412.10235](http://arxiv.org/abs/2412.10235)|null|
 |**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219](http://arxiv.org/abs/2412.10219)|null|
 |**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868](http://arxiv.org/abs/2412.09868)|null|
@@ -379,7 +388,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -482,12 +491,19 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Quasinormal coupled-mode analysis of dynamic gain in exceptional-point lasers**|Hao He et.al.|[2412.12066](http://arxiv.org/abs/2412.12066)|null|
+|**2024-12-16**|**Echo State network for coarsening dynamics of charge density waves**|Clement Dinh et.al.|[2412.11982](http://arxiv.org/abs/2412.11982)|null|
+|**2024-12-16**|**Learning Human-Aware Robot Policies for Adaptive Assistance**|Jason Qin et.al.|[2412.11913](http://arxiv.org/abs/2412.11913)|null|
+|**2024-12-16**|**Event-based Detectors for Laser Guide Star Tip-Tilt Sensing**|Monique Cockram et.al.|[2412.11436](http://arxiv.org/abs/2412.11436)|null|
+|**2024-12-15**|**Uni-AdaFocus: Spatial-temporal Dynamic Computation for Video Recognition**|Yulin Wang et.al.|[2412.11228](http://arxiv.org/abs/2412.11228)|**[link](https://github.com/leaplabthu/uni-adafocus)**|
+|**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|**[link](https://github.com/lzyfischer/inductivest)**|
+|**2024-12-14**|**Identification of Path Congestion Status for Network Performance Tomography using Deep Spatial-Temporal Learning**|Chengze Du et.al.|[2412.10762](http://arxiv.org/abs/2412.10762)|null|
 |**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345](http://arxiv.org/abs/2412.10345)|null|
 |**2024-12-13**|**V2Sim: An Open-Source Microscopic V2G Simulation Platform in Urban Power and Transportation Network**|Tao Qian et.al.|[2412.09808](http://arxiv.org/abs/2412.09808)|null|
 |**2024-12-11**|**Bench2Drive-R: Turning Real World Data into Reactive Closed-Loop Autonomous Driving Benchmark by Generative Model**|Junqi You et.al.|[2412.09647](http://arxiv.org/abs/2412.09647)|null|
@@ -666,7 +682,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
