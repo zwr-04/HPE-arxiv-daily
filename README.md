@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,12 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|null|
+|**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502](http://arxiv.org/abs/2412.13502)|null|
+|**2024-12-18**|**FlexPose: Pose Distribution Adaptation with Limited Guidance**|Zixiao Wang et.al.|[2412.13463](http://arxiv.org/abs/2412.13463)|null|
+|**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|null|
 |**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
 |**2024-12-17**|**Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**|Huaijin Pi et.al.|[2412.13111](http://arxiv.org/abs/2412.13111)|null|
 |**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058](http://arxiv.org/abs/2412.13058)|null|
 |**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
 |**2024-12-15**|**Challenges and Opportunities Associated with Technology Driven Biomechanical Simulations**|Zartasha Mustansar et.al.|[2412.12209](http://arxiv.org/abs/2412.12209)|null|
-|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|null|
+|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|**[link](https://github.com/Tian-one/FCVG)**|
 |**2024-12-16**|**Multi-Scale Incremental Modeling for Enhanced Human Motion Prediction in Human-Robot Collaboration**|Juncheng Zou et.al.|[2412.11632](http://arxiv.org/abs/2412.11632)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420](http://arxiv.org/abs/2412.11420)|null|
 |**2024-12-16**|**Visual IRL for Human-Like Robotic Manipulation**|Ehsan Asali et.al.|[2412.11360](http://arxiv.org/abs/2412.11360)|null|
@@ -393,12 +397,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|null|
+|**2024-12-17**|**CompactFlowNet: Efficient Real-time Optical Flow Estimation on Mobile Devices**|Andrei Znobishchev et.al.|[2412.13273](http://arxiv.org/abs/2412.13273)|null|
 |**2024-12-17**|**Future Aspects in Human Action Recognition: Exploring Emerging Techniques and Ethical Influences**|Antonios Gasteratos et.al.|[2412.12990](http://arxiv.org/abs/2412.12990)|null|
 |**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895](http://arxiv.org/abs/2412.09895)|**[link](https://github.com/mia-yatingyu/stdd)**|
 |**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220](http://arxiv.org/abs/2412.09220)|**[link](https://github.com/wengwanjiang/usdrl)**|
@@ -497,12 +503,15 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|null|
+|**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610](http://arxiv.org/abs/2412.13610)|null|
+|**2024-12-17**|**C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction**|Zichen Wang et.al.|[2412.13231](http://arxiv.org/abs/2412.13231)|**[link](https://github.com/wangzc0422/c2f-tp)**|
 |**2024-12-17**|**FocusChat: Text-guided Long Video Understanding via Spatiotemporal Information Filtering**|Zheng Cheng et.al.|[2412.12833](http://arxiv.org/abs/2412.12833)|null|
 |**2024-12-18**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
 |**2024-12-16**|**Quasinormal coupled-mode analysis of dynamic gain in exceptional-point lasers**|Hao He et.al.|[2412.12066](http://arxiv.org/abs/2412.12066)|null|
@@ -690,7 +699,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
