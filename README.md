@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
 |**2024-12-19**|**DirectorLLM for Human-Centric Video Generation**|Kunpeng Song et.al.|[2412.14484](http://arxiv.org/abs/2412.14484)|null|
 |**2024-12-19**|**GenHMR: Generative Human Mesh Recovery**|Muhammad Usama Saleem et.al.|[2412.14444](http://arxiv.org/abs/2412.14444)|null|
-|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|null|
+|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502](http://arxiv.org/abs/2412.13502)|null|
 |**2024-12-18**|**FlexPose: Pose Distribution Adaptation with Limited Guidance**|Zixiao Wang et.al.|[2412.13463](http://arxiv.org/abs/2412.13463)|null|
 |**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|null|
@@ -403,7 +403,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -511,7 +511,7 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
@@ -710,7 +710,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3467,7 +3467,7 @@ layout: default
 |**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
 |**2024-12-19**|**DirectorLLM for Human-Centric Video Generation**|Kunpeng Song et.al.|[2412.14484](http://arxiv.org/abs/2412.14484)|null|
 |**2024-12-19**|**GenHMR: Generative Human Mesh Recovery**|Muhammad Usama Saleem et.al.|[2412.14444](http://arxiv.org/abs/2412.14444)|null|
-|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|null|
+|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502](http://arxiv.org/abs/2412.13502)|null|
 |**2024-12-18**|**FlexPose: Pose Distribution Adaptation with Limited Guidance**|Zixiao Wang et.al.|[2412.13463](http://arxiv.org/abs/2412.13463)|null|
 |**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|null|
