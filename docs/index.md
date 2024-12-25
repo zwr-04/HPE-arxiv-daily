@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions**|Youliang Zhang et.al.|[2412.17377](http://arxiv.org/abs/2412.17377)|null|
+|**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
+|**2024-12-22**|**InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions**|Ronghui Li et.al.|[2412.16982](http://arxiv.org/abs/2412.16982)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742](http://arxiv.org/abs/2412.16742)|null|
+|**2024-12-21**|**VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation**|Chi Zhang et.al.|[2412.16677](http://arxiv.org/abs/2412.16677)|null|
+|**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454](http://arxiv.org/abs/2412.16454)|null|
 |**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
 |**2024-12-20**|**Monkey Transfer Learning Can Improve Human Pose Estimation**|Bradley Scott et.al.|[2412.15966](http://arxiv.org/abs/2412.15966)|null|
 |**2024-12-20**|**Robustness-enhanced Myoelectric Control with GAN-based Open-set Recognition**|Cheng Wang et.al.|[2412.15819](http://arxiv.org/abs/2412.15819)|null|
@@ -3860,6 +3868,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|null|
+|**2024-12-22**|**Video Domain Incremental Learning for Human Action Recognition in Home Environments**|Yuanda Hu et.al.|[2412.16946](http://arxiv.org/abs/2412.16946)|null|
+|**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454](http://arxiv.org/abs/2412.16454)|null|
 |**2024-12-19**|**Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition**|Hao Huang et.al.|[2412.14833](http://arxiv.org/abs/2412.14833)|null|
 |**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719](http://arxiv.org/abs/2412.14719)|**[link](https://github.com/kunli-cs/pcan)**|
 |**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845](http://arxiv.org/abs/2412.13845)|null|
@@ -3966,6 +3977,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
+|**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
+|**2024-12-23**|**Neural Spatial-Temporal Tensor Representation for Infrared Small Target Detection**|Fengyi Wu et.al.|[2412.17302](http://arxiv.org/abs/2412.17302)|**[link](https://github.com/fengyiwu98/neurstt)**|
+|**2024-12-23**|**STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection**|Xiaowen Ma et.al.|[2412.17247](http://arxiv.org/abs/2412.17247)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
+|**2024-12-24**|**Integrating Random Effects in Variational Autoencoders for Dimensionality Reduction of Correlated Data**|Giora Simchoni et.al.|[2412.16899](http://arxiv.org/abs/2412.16899)|null|
+|**2024-12-21**|**Paraformer: Parameterization of Sub-grid Scale Processes Using Transformers**|Shuochen Wang et.al.|[2412.16763](http://arxiv.org/abs/2412.16763)|null|
+|**2024-12-21**|**Vehicle Rebalancing Under Adherence Uncertainty**|Avalpreet Singh Brar et.al.|[2412.16632](http://arxiv.org/abs/2412.16632)|null|
+|**2024-12-21**|**STKDRec: Spatial-Temporal Knowledge Distillation for Takeaway Recommendation**|Shuyuan Zhao et.al.|[2412.16502](http://arxiv.org/abs/2412.16502)|null|
 |**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
 |**2024-12-20**|**Self-supervised Spatial-Temporal Learner for Precipitation Nowcasting**|Haotian Li et.al.|[2412.15917](http://arxiv.org/abs/2412.15917)|**[link](https://github.com/htlee6/spat-spark)**|
 |**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu et.al.|[2412.15691](http://arxiv.org/abs/2412.15691)|null|
