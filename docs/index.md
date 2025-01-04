@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,7 +3461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|null|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|**[link](https://github.com/human-sensor-placement/human-sensor-placement.github.io)**|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
 |**2024-12-30**|**ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning**|Hrishikesh Gupta et.al.|[2412.20830](http://arxiv.org/abs/2412.20830)|**[link](https://github.com/stoicgilgamesh/matting_rendering)**|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803](http://arxiv.org/abs/2412.20803)|null|
