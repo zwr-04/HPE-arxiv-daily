@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,12 +3461,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|null|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439](http://arxiv.org/abs/2501.05439)|null|
-|**2025-01-09**|**A Portable Solution for Simultaneous Human Movement and Mobile EEG Acquisition: Readiness Potentials for Basketball Free-throw Shooting**|Contreras-Altamirano et.al.|[2501.05378](http://arxiv.org/abs/2501.05378)|**[link](https://github.com/micufx/Pocketable-MoBI-Baskts)**|
+|**2025-01-10**|**A Portable Solution for Simultaneous Human Movement and Mobile EEG Acquisition: Readiness Potentials for Basketball Free-throw Shooting**|Miguel Contreras-Altamirano et.al.|[2501.05378](http://arxiv.org/abs/2501.05378)|**[link](https://github.com/micufx/Pocketable-MoBI-Baskts)**|
 |**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264](http://arxiv.org/abs/2501.05264)|null|
 |**2025-01-09**|**Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**|Yuhong Zhang et.al.|[2501.05098](http://arxiv.org/abs/2501.05098)|null|
-|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|**[link](https://github.com/moonlight52137/st-vgcn)**|
 |**2025-01-09**|**MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data**|Zifan Wang et.al.|[2501.04595](http://arxiv.org/abs/2501.04595)|null|
 |**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263](http://arxiv.org/abs/2501.04263)|null|
 |**2025-01-07**|**Learning to Transfer Human Hand Skills for Robot Manipulations**|Sungjae Park et.al.|[2501.04169](http://arxiv.org/abs/2501.04169)|null|
@@ -3917,7 +3917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|**[link](https://github.com/moonlight52137/st-vgcn)**|
 |**2025-01-08**|**Video Summarisation with Incident and Context Information using Generative AI**|Ulindu De Silva et.al.|[2501.04764](http://arxiv.org/abs/2501.04764)|null|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
 |**2025-01-05**|**Evolving Skeletons: Motion Dynamics in Action Recognition**|Jushang Qiu et.al.|[2501.02593](http://arxiv.org/abs/2501.02593)|null|
@@ -4037,7 +4037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066](http://arxiv.org/abs/2501.05066)|**[link](https://github.com/moonlight52137/st-vgcn)**|
 |**2025-01-07**|**AI-Driven Reinvention of Hydrological Modeling for Accurate Predictions and Interpretation to Transform Earth System Modeling**|Cuihui Xia et.al.|[2501.04733](http://arxiv.org/abs/2501.04733)|null|
 |**2025-01-08**|**DeFusion: An Effective Decoupling Fusion Network for Multi-Modal Pregnancy Prediction**|Xueqiang Ouyang et.al.|[2501.04353](http://arxiv.org/abs/2501.04353)|**[link](https://github.com/ou-young-1999/dfnet)**|
 |**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
