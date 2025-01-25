@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
+|**2025-01-23**|**EventVL: Understand Event Streams via Multimodal Large Language Model**|Pengteng Li et.al.|[2501.13707](http://arxiv.org/abs/2501.13707)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335](http://arxiv.org/abs/2501.13335)|null|
 |**2025-01-22**|**Deep Learning-Based Image Recovery and Pose Estimation for Resident Space Objects**|Louis Aberdeen et.al.|[2501.13009](http://arxiv.org/abs/2501.13009)|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
 |**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
@@ -493,12 +498,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829](http://arxiv.org/abs/2501.13829)|null|
 |**2025-01-22**|**SMART-Vision: Survey of Modern Action Recognition Techniques in Vision**|Ali K. AlShami et.al.|[2501.13066](http://arxiv.org/abs/2501.13066)|null|
 |**2025-01-22**|**Can masking background and object reduce static bias for zero-shot action recognition?**|Takumi Fukuzawa et.al.|[2501.12681](http://arxiv.org/abs/2501.12681)|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
@@ -623,7 +629,7 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
@@ -885,7 +891,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
