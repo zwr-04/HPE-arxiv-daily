@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
+|**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543](http://arxiv.org/abs/2501.18543)|null|
+|**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478](http://arxiv.org/abs/2501.18478)|null|
+|**2025-01-29**|**Online Trajectory Replanner for Dynamically Grasping Irregular Objects**|Minh Nhat Vu et.al.|[2501.17968](http://arxiv.org/abs/2501.17968)|null|
 |**2025-01-28**|**FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation**|Arvin Tashakori et.al.|[2501.16778](http://arxiv.org/abs/2501.16778)|null|
 |**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751](http://arxiv.org/abs/2501.16751)|null|
 |**2025-01-27**|**PackDiT: Joint Human Motion and Text Generation via Mutual Prompting**|Zhongyu Jiang et.al.|[2501.16551](http://arxiv.org/abs/2501.16551)|null|
@@ -3969,6 +3973,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 |**2025-01-29**|**Action Recognition Using Temporal Shift Module and Ensemble Learning**|Anh-Kiet Duong et.al.|[2501.17550](http://arxiv.org/abs/2501.17550)|**[link](https://github.com/ffyyytt/tsm-mmvpr)**|
 |**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843](http://arxiv.org/abs/2501.16843)|null|
 |**2025-01-25**|**Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data**|Jiajie Li et.al.|[2501.15326](http://arxiv.org/abs/2501.15326)|null|
