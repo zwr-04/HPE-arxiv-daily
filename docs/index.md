@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,11 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293](http://arxiv.org/abs/2502.04293)|null|
+|**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
+|**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510](http://arxiv.org/abs/2502.03510)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936](http://arxiv.org/abs/2502.02936)|null|
 |**2025-02-05**|**A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**|Hao Yin et.al.|[2502.02817](http://arxiv.org/abs/2502.02817)|null|
 |**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525](http://arxiv.org/abs/2502.02525)|null|
-|**2025-02-05**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
+|**2025-02-06**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312](http://arxiv.org/abs/2502.01312)|null|
 |**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|null|
@@ -3989,6 +3992,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724](http://arxiv.org/abs/2502.03724)|null|
+|**2025-02-05**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549](http://arxiv.org/abs/2502.03549)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
 |**2025-01-31**|**ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition**|Joseph Fioresi et.al.|[2502.00156](http://arxiv.org/abs/2502.00156)|null|
 |**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034](http://arxiv.org/abs/2501.19034)|**[link](https://github.com/aiotgroup/xrfv2)**|
@@ -4126,6 +4132,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Graph machine learning for flight delay prediction due to holding manouver**|Jorge L. Franco et.al.|[2502.04233](http://arxiv.org/abs/2502.04233)|null|
+|**2025-02-06**|**Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers**|Yi Ding et.al.|[2502.03736](http://arxiv.org/abs/2502.03736)|null|
 |**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465](http://arxiv.org/abs/2502.03465)|null|
 |**2025-02-05**|**Contact-Aware Motion Planning Among Movable Objects**|Haokun Wang et.al.|[2502.03317](http://arxiv.org/abs/2502.03317)|null|
 |**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287](http://arxiv.org/abs/2502.03287)|null|
