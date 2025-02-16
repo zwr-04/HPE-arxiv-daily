@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4159,7 +4159,7 @@ layout: default
 |**2025-02-12**|**A Cooperative Bearing-Rate Approach for Observability-Enhanced Target Motion Estimation**|Canlun Zheng et.al.|[2502.08089](http://arxiv.org/abs/2502.08089)|null|
 |**2025-02-08**|**CrossVideoMAE: Self-Supervised Image-Video Representation Learning with Masked Autoencoders**|Shihab Aaqil Ahamed et.al.|[2502.07811](http://arxiv.org/abs/2502.07811)|null|
 |**2025-02-10**|**High-aspect-ratio silica meta-optics for high-intensity structured light**|Beatriz Oliveira et.al.|[2502.06993](http://arxiv.org/abs/2502.06993)|null|
-|**2025-02-08**|**Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**|Chengkai Han et.al.|[2502.06870](http://arxiv.org/abs/2502.06870)|null|
+|**2025-02-08**|**Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**|Chengkai Han et.al.|[2502.06870](http://arxiv.org/abs/2502.06870)|**[link](https://github.com/NickHan-cs/TRACK)**|
 |**2025-02-09**|**Predictive Crash Analytics for Traffic Safety using Deep Learning**|Karthik Sivakoti et.al.|[2502.05777](http://arxiv.org/abs/2502.05777)|null|
 |**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
 |**2025-02-06**|**Fast Video Generation with Sliding Tile Attention**|Peiyuan Zhang et.al.|[2502.04507](http://arxiv.org/abs/2502.04507)|null|
