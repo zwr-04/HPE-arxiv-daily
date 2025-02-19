@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138](http://arxiv.org/abs/2502.12138)|null|
+|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
+|**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027](http://arxiv.org/abs/2502.12027)|null|
+|**2025-02-17**|**Early Detection of Human Handover Intentions in Human-Robot Collaboration: Comparing EEG, Gaze, and Hand Motion**|Parag Khanna et.al.|[2502.11752](http://arxiv.org/abs/2502.11752)|null|
+|**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
+|**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534](http://arxiv.org/abs/2502.11534)|null|
+|**2025-02-16**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
+|**2025-02-18**|**VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS**|Ming Meng et.al.|[2502.10729](http://arxiv.org/abs/2502.10729)|null|
+|**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
+|**2025-02-15**|**Learning semantical dynamics and spatiotemporal collaboration for human pose estimation in video**|Runyang Feng et.al.|[2502.10616](http://arxiv.org/abs/2502.10616)|null|
 |**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
 |**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460](http://arxiv.org/abs/2502.09460)|null|
 |**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080](http://arxiv.org/abs/2502.09080)|null|
@@ -557,7 +567,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -703,12 +713,13 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**|Jingcheng Ni et.al.|[2502.11663](http://arxiv.org/abs/2502.11663)|null|
 |**2025-02-14**|**Tensor-variate Gaussian process regression for efficient emulation of complex systems: comparing regressor and covariance structures in outer product and parallel partial emulators**|Daria Semochkina et.al.|[2502.10319](http://arxiv.org/abs/2502.10319)|null|
 |**2025-02-13**|**Coherent detection of the oscillating acoustoelectric effect in graphene**|Yicheng Mou et.al.|[2502.09465](http://arxiv.org/abs/2502.09465)|null|
 |**2025-02-13**|**Evolution of Data-driven Single- and Multi-Hazard Susceptibility Mapping and Emergence of Deep Learning Methods**|Jaya Sreevalsan-Nair et.al.|[2502.09045](http://arxiv.org/abs/2502.09045)|null|
@@ -996,7 +1007,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
