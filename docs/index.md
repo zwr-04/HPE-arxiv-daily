@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,9 +3461,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
+|**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154](http://arxiv.org/abs/2502.20154)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
-|**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
+|**2025-02-28**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
 |**2025-02-27**|**RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**|Thibaut Loiseau et.al.|[2502.19955](http://arxiv.org/abs/2502.19955)|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769](http://arxiv.org/abs/2502.19769)|null|
 |**2025-02-27**|**Accurate Pose Estimation for Flight Platforms based on Divergent Multi-Aperture Imaging System**|Shunkun Liang et.al.|[2502.19708](http://arxiv.org/abs/2502.19708)|null|
@@ -4057,6 +4059,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
 |**2025-02-27**|**Learning to Generalize without Bias for Open-Vocabulary Action Recognition**|Yating Yu et.al.|[2502.20158](http://arxiv.org/abs/2502.20158)|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769](http://arxiv.org/abs/2502.19769)|null|
 |**2025-02-26**|**Deep Learning For Time Series Analysis With Application On Human Motion**|Ali Ismail-Fawaz et.al.|[2502.19364](http://arxiv.org/abs/2502.19364)|null|
@@ -4210,6 +4213,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
+|**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
 |**2025-02-27**|**Mass Shootings, Community Mobility, and the Relocation of Economic Activity**|Miguel Cuellar et.al.|[2502.19640](http://arxiv.org/abs/2502.19640)|null|
 |**2025-02-26**|**Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-based Learning Framework**|Ziqiao Weng et.al.|[2502.19386](http://arxiv.org/abs/2502.19386)|null|
 |**2025-02-26**|**EndoMamba: An Efficient Foundation Model for Endoscopic Videos**|Qingyao Tian et.al.|[2502.19090](http://arxiv.org/abs/2502.19090)|null|
