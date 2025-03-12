@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
+|**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278](http://arxiv.org/abs/2503.07278)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190](http://arxiv.org/abs/2503.07190)|null|
+|**2025-03-11**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111](http://arxiv.org/abs/2503.07111)|null|
+|**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660](http://arxiv.org/abs/2503.06660)|null|
+|**2025-03-09**|**ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis**|Xukun Zhou et.al.|[2503.06499](http://arxiv.org/abs/2503.06499)|null|
+|**2025-03-08**|**BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**|Zixi Kang et.al.|[2503.06151](http://arxiv.org/abs/2503.06151)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
+|**2025-03-08**|**Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision**|David C. Jeong et.al.|[2503.06089](http://arxiv.org/abs/2503.06089)|null|
 |**2025-03-07**|**Novel Object 6D Pose Estimation with a Single Reference View**|Jian Liu et.al.|[2503.05578](http://arxiv.org/abs/2503.05578)|null|
 |**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365](http://arxiv.org/abs/2503.05365)|null|
 |**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189](http://arxiv.org/abs/2503.05189)|null|
@@ -635,7 +645,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -797,12 +807,15 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Parametric Value Approximation for General-sum Differential Games with State Constraints**|Lei Zhang et.al.|[2503.06994](http://arxiv.org/abs/2503.06994)|null|
+|**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844](http://arxiv.org/abs/2503.06844)|null|
+|**2025-03-08**|**A Digital Twin-Driven Recommendation System for Adaptive Campus Course Timetabling**|Keshu Wu et.al.|[2503.06109](http://arxiv.org/abs/2503.06109)|null|
 |**2025-03-06**|**Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863](http://arxiv.org/abs/2503.04863)|null|
 |**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528](http://arxiv.org/abs/2503.04528)|null|
 |**2025-03-06**|**Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process**|Senming Tan et.al.|[2503.04134](http://arxiv.org/abs/2503.04134)|null|
@@ -1113,7 +1126,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
