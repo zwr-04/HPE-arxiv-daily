@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
+|**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303](http://arxiv.org/abs/2503.13303)|null|
+|**2025-03-17**|**Progressive Human Motion Generation Based on Text and Few Motion Frames**|Ling-An Zeng et.al.|[2503.13300](http://arxiv.org/abs/2503.13300)|null|
+|**2025-03-17**|**HoloGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures**|Yongkang Cheng et.al.|[2503.13229](http://arxiv.org/abs/2503.13229)|null|
+|**2025-03-17**|**3D Human Interaction Generation: A Survey**|Siyuan Fan et.al.|[2503.13120](http://arxiv.org/abs/2503.13120)|null|
+|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053](http://arxiv.org/abs/2503.13053)|null|
+|**2025-03-17**|**PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data**|ChangHee Yang et.al.|[2503.13025](http://arxiv.org/abs/2503.13025)|null|
+|**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
+|**2025-03-17**|**R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars**|Yifan Zhan et.al.|[2503.12751](http://arxiv.org/abs/2503.12751)|null|
+|**2025-03-16**|**texTENG: Fabricating Wearable Textile-Based Triboelectric Nanogenerators**|Ritik Batra et.al.|[2503.12628](http://arxiv.org/abs/2503.12628)|null|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194](http://arxiv.org/abs/2503.11194)|null|
 |**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020](http://arxiv.org/abs/2503.11020)|null|
@@ -667,17 +677,20 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
+|**2025-03-16**|**ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation**|Mo Zhou et.al.|[2503.12348](http://arxiv.org/abs/2503.12348)|null|
+|**2025-03-15**|**Real-Time Manipulation Action Recognition with a Factorized Graph Sequence Encoder**|Enes Erdogan et.al.|[2503.12034](http://arxiv.org/abs/2503.12034)|null|
 |**2025-03-14**|**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention**|Jiangning Wei et.al.|[2503.11004](http://arxiv.org/abs/2503.11004)|null|
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
 |**2025-03-11**|**A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects**|Fei Wang et.al.|[2503.08008](http://arxiv.org/abs/2503.08008)|null|
 |**2025-03-10**|**Elderly Activity Recognition in the Wild: Results from the EAR Challenge**|Anh-Kiet Duong et.al.|[2503.07821](http://arxiv.org/abs/2503.07821)|null|
-|**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582](http://arxiv.org/abs/2503.05582)|null|
+|**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582](http://arxiv.org/abs/2503.05582)|**[link](https://github.com/muyang99/mptsnet)**|
 |**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365](http://arxiv.org/abs/2503.05365)|null|
 |**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470](http://arxiv.org/abs/2503.04470)|null|
 |**2025-03-06**|**Spatial-Temporal Perception with Causal Inference for Naturalistic Driving Action Recognition**|Qing Chang et.al.|[2503.04078](http://arxiv.org/abs/2503.04078)|null|
@@ -833,12 +846,14 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos**|Peiran Wu et.al.|[2503.12542](http://arxiv.org/abs/2503.12542)|null|
+|**2025-03-16**|**Diagnosing the solar atmosphere through the Mg I b $_2$ 5173 Å line. II. Morphological classification of the intensity and circular polarization profiles**|A. L. Siu-Tapia et.al.|[2503.12501](http://arxiv.org/abs/2503.12501)|null|
 |**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/abs/2503.11495)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
 |**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345](http://arxiv.org/abs/2503.11345)|null|
@@ -1167,7 +1182,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
