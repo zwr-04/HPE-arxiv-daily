@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
+|**2025-03-18**|**HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard**|Yifei Dong et.al.|[2503.14229](http://arxiv.org/abs/2503.14229)|null|
+|**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
+|**2025-03-18**|**Foundation Feature-Driven Online End-Effector Pose Estimation: A Marker-Free and Learning-Free Approach**|Tianshu Wu et.al.|[2503.14051](http://arxiv.org/abs/2503.14051)|null|
+|**2025-03-18**|**MAG: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization**|Binjie Liu et.al.|[2503.14040](http://arxiv.org/abs/2503.14040)|null|
+|**2025-03-19**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926](http://arxiv.org/abs/2503.13926)|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
 |**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303](http://arxiv.org/abs/2503.13303)|null|
 |**2025-03-17**|**Progressive Human Motion Generation Based on Text and Few Motion Frames**|Ling-An Zeng et.al.|[2503.13300](http://arxiv.org/abs/2503.13300)|null|
@@ -677,12 +683,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Joint Image-Instance Spatial-Temporal Attention for Few-shot Action Recognition**|Zefeng Qian et.al.|[2503.14430](http://arxiv.org/abs/2503.14430)|null|
+|**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724](http://arxiv.org/abs/2503.13724)|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
 |**2025-03-16**|**ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation**|Mo Zhou et.al.|[2503.12348](http://arxiv.org/abs/2503.12348)|null|
 |**2025-03-15**|**Real-Time Manipulation Action Recognition with a Factorized Graph Sequence Encoder**|Enes Erdogan et.al.|[2503.12034](http://arxiv.org/abs/2503.12034)|null|
@@ -846,12 +854,17 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**|Seungwon Lim et.al.|[2503.14427](http://arxiv.org/abs/2503.14427)|null|
+|**2025-03-18**|**Fast Autoregressive Video Generation with Diagonal Decoding**|Yang Ye et.al.|[2503.14070](http://arxiv.org/abs/2503.14070)|null|
+|**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
+|**2025-03-18**|**SCAN-BEST: Efficient Sub-6GHz-Aided Near-field Beam Selection with Formal Reliability Guarantee**|Weicao Deng et.al.|[2503.13801](http://arxiv.org/abs/2503.13801)|null|
+|**2025-03-17**|**Dynamical Mode Recognition of Turbulent Flames in a Swirl-stabilized Annular Combustor by a Time-series Learning Approach**|Tao Yang et.al.|[2503.13559](http://arxiv.org/abs/2503.13559)|null|
 |**2025-03-16**|**ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos**|Peiran Wu et.al.|[2503.12542](http://arxiv.org/abs/2503.12542)|null|
 |**2025-03-16**|**Diagnosing the solar atmosphere through the Mg I b $_2$ 5173 Å line. II. Morphological classification of the intensity and circular polarization profiles**|A. L. Siu-Tapia et.al.|[2503.12501](http://arxiv.org/abs/2503.12501)|null|
 |**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/abs/2503.11495)|null|
@@ -1182,7 +1195,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
