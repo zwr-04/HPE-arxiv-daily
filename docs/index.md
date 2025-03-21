@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space**|Lixing Xiao et.al.|[2503.15451](http://arxiv.org/abs/2503.15451)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
+|**2025-03-19**|**A Comparative Study of Human Motion Models in Reinforcement Learning Algorithms for Social Robot Navigation**|Tommaso Van Der Meer et.al.|[2503.15127](http://arxiv.org/abs/2503.15127)|null|
+|**2025-03-20**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110](http://arxiv.org/abs/2503.15110)|null|
+|**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-19**|**StyleLoco: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion**|Le Ma et.al.|[2503.15082](http://arxiv.org/abs/2503.15082)|null|
+|**2025-03-19**|**GenM $^3$ : Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation**|Junyu Shi et.al.|[2503.14919](http://arxiv.org/abs/2503.14919)|null|
+|**2025-03-18**|**Validation of Human Pose Estimation and Human Mesh Recovery for Extracting Clinically Relevant Motion Data from Videos**|Kai Armstrong et.al.|[2503.14760](http://arxiv.org/abs/2503.14760)|null|
+|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
 |**2025-03-18**|**HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard**|Yifei Dong et.al.|[2503.14229](http://arxiv.org/abs/2503.14229)|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
@@ -4136,9 +4146,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960](http://arxiv.org/abs/2503.14960)|null|
+|**2025-03-19**|**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**|Henrique Morimitsu et.al.|[2503.14880](http://arxiv.org/abs/2503.14880)|**[link](https://github.com/hmorimitsu/ptlflow)**|
+|**2025-03-15**|**Salient Temporal Encoding for Dynamic Scene Graph Generation**|Zhihao Zhu et.al.|[2503.14524](http://arxiv.org/abs/2503.14524)|null|
 |**2025-03-11**|**Joint Image-Instance Spatial-Temporal Attention for Few-shot Action Recognition**|Zefeng Qian et.al.|[2503.14430](http://arxiv.org/abs/2503.14430)|null|
 |**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724](http://arxiv.org/abs/2503.13724)|null|
-|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
+|**2025-03-20**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344](http://arxiv.org/abs/2503.13344)|null|
 |**2025-03-16**|**ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation**|Mo Zhou et.al.|[2503.12348](http://arxiv.org/abs/2503.12348)|null|
 |**2025-03-15**|**Real-Time Manipulation Action Recognition with a Factorized Graph Sequence Encoder**|Enes Erdogan et.al.|[2503.12034](http://arxiv.org/abs/2503.12034)|null|
 |**2025-03-14**|**VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention**|Jiangning Wei et.al.|[2503.11004](http://arxiv.org/abs/2503.11004)|null|
@@ -4305,10 +4318,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene**|Shengqiong Wu et.al.|[2503.15019](http://arxiv.org/abs/2503.15019)|null|
+|**2025-03-15**|**Salient Temporal Encoding for Dynamic Scene Graph Generation**|Zhihao Zhu et.al.|[2503.14524](http://arxiv.org/abs/2503.14524)|null|
 |**2025-03-18**|**VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**|Seungwon Lim et.al.|[2503.14427](http://arxiv.org/abs/2503.14427)|null|
 |**2025-03-18**|**Fast Autoregressive Video Generation with Diagonal Decoding**|Yang Ye et.al.|[2503.14070](http://arxiv.org/abs/2503.14070)|null|
 |**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
-|**2025-03-18**|**SCAN-BEST: Efficient Sub-6GHz-Aided Near-field Beam Selection with Formal Reliability Guarantee**|Weicao Deng et.al.|[2503.13801](http://arxiv.org/abs/2503.13801)|null|
+|**2025-03-20**|**SCAN-BEST: Efficient Sub-6GHz-Aided Near-field Beam Selection with Formal Reliability Guarantees**|Weicao Deng et.al.|[2503.13801](http://arxiv.org/abs/2503.13801)|null|
 |**2025-03-17**|**Dynamical Mode Recognition of Turbulent Flames in a Swirl-stabilized Annular Combustor by a Time-series Learning Approach**|Tao Yang et.al.|[2503.13559](http://arxiv.org/abs/2503.13559)|null|
 |**2025-03-16**|**ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos**|Peiran Wu et.al.|[2503.12542](http://arxiv.org/abs/2503.12542)|null|
 |**2025-03-16**|**Diagnosing the solar atmosphere through the Mg I b $_2$ 5173 Å line. II. Morphological classification of the intensity and circular polarization profiles**|A. L. Siu-Tapia et.al.|[2503.12501](http://arxiv.org/abs/2503.12501)|null|
