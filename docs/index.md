@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764](http://arxiv.org/abs/2504.01764)|null|
+|**2025-04-02**|**FlowMotion: Target-Predictive Flow Matching for Realistic Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
+|**2025-04-03**|**Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation**|Shiyong Liu et.al.|[2504.01298](http://arxiv.org/abs/2504.01298)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|null|
+|**2025-04-01**|**MixerMDM: Learnable Composition of Human Motion Diffusion Models**|Pablo Ruiz-Ponce et.al.|[2504.01019](http://arxiv.org/abs/2504.01019)|null|
+|**2025-04-01**|**Deep Learning-Based Extended Target Tracking in ISAC Systems**|Yiqiu Wang et.al.|[2504.00576](http://arxiv.org/abs/2504.00576)|null|
+|**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394](http://arxiv.org/abs/2504.00394)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272](http://arxiv.org/abs/2503.24272)|null|
 |**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
@@ -4199,6 +4206,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
+|**2025-04-01**|**Sample-level Adaptive Knowledge Distillation for Action Recognition**|Ping Li et.al.|[2504.00606](http://arxiv.org/abs/2504.00606)|null|
 |**2025-03-30**|**CA^2ST: Cross-Attention in Audio, Space, and Time for Holistic Video Recognition**|Jongseo Lee et.al.|[2503.23447](http://arxiv.org/abs/2503.23447)|null|
 |**2025-03-30**|**OwlSight: A Robust Illumination Adaptation Framework for Dark Video Human Action Recognition**|Shihao Cheng et.al.|[2503.23266](http://arxiv.org/abs/2503.23266)|null|
 |**2025-03-29**|**Action Recognition in Real-World Ambient Assisted Living Environment**|Vincent Gbouna Zakka et.al.|[2503.23214](http://arxiv.org/abs/2503.23214)|**[link](https://github.com/Gbouna/RE-TCN)**|
@@ -4382,6 +4391,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Triangular rogue clusters associated with multiple roots of Adler--Moser polynomials in integrable systems**|Bo Yang et.al.|[2504.01777](http://arxiv.org/abs/2504.01777)|null|
+|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764](http://arxiv.org/abs/2504.01764)|null|
+|**2025-04-02**|**Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks**|Thomas Bailie et.al.|[2504.00349](http://arxiv.org/abs/2504.00349)|null|
 |**2025-03-31**|**Spatio-temporal Prediction of Fine-Grained Origin-Destination Matrices with Applications in Ridesharing**|Run Yang et.al.|[2503.24237](http://arxiv.org/abs/2503.24237)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
 |**2025-03-31**|**An In-Situ Spatial-Temporal Sequence Detector for Neuromorphic Vision Sensor Empowered by High Density Vertical NAND Storage**|Zijian Zhao et.al.|[2503.23685](http://arxiv.org/abs/2503.23685)|null|
