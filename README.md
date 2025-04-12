@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.11
+## Updated on 2025.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955](http://arxiv.org/abs/2504.07955)|null|
+|**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335](http://arxiv.org/abs/2504.07335)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866](http://arxiv.org/abs/2504.06866)|null|
 |**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677](http://arxiv.org/abs/2504.06677)|null|
@@ -773,19 +775,20 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250412>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785](http://arxiv.org/abs/2504.07785)|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001](http://arxiv.org/abs/2504.07001)|null|
 |**2025-04-09**|**Exploring Ordinal Bias in Action Recognition for Instructional Videos**|Joochan Kim et.al.|[2504.06580](http://arxiv.org/abs/2504.06580)|null|
 |**2025-04-08**|**Temporal Alignment-Free Video Matching for Few-shot Action Recognition**|SuBeen Lee et.al.|[2504.05956](http://arxiv.org/abs/2504.05956)|null|
 |**2025-04-08**|**SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning**|Fida Mohammad Thoker et.al.|[2504.05706](http://arxiv.org/abs/2504.05706)|null|
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535](http://arxiv.org/abs/2504.04535)|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](http://arxiv.org/abs/2504.02287)|null|
-|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
+|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|**[link](https://github.com/thanhhff/multitsf)**|
 |**2025-04-02**|**LSC-ADL: An Activity of Daily Living (ADL)-Annotated Lifelog Dataset Generated via Semi-Automatic Clustering**|Minh-Quan Ho-Le et.al.|[2504.02060](http://arxiv.org/abs/2504.02060)|null|
 |**2025-04-07**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
 |**2025-04-01**|**Sample-level Adaptive Knowledge Distillation for Action Recognition**|Ping Li et.al.|[2504.00606](http://arxiv.org/abs/2504.00606)|null|
@@ -968,12 +971,13 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250412>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method**|Dongqi Fu et.al.|[2504.07394](http://arxiv.org/abs/2504.07394)|null|
 |**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660](http://arxiv.org/abs/2504.06660)|null|
 |**2025-04-09**|**STaR: Seamless Spatial-Temporal Aware Motion Retargeting with Penetration and Consistency Constraints**|Xiaohang Yang et.al.|[2504.06504](http://arxiv.org/abs/2504.06504)|null|
 |**2025-04-08**|**MM-STFlowNet: A Transportation Hub-Oriented Multi-Mode Passenger Flow Prediction Method via Spatial-Temporal Dynamic Graph Modeling**|Ronghui Zhang et.al.|[2504.06325](http://arxiv.org/abs/2504.06325)|null|
@@ -1354,7 +1358,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250412>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
