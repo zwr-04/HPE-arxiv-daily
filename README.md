@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433](http://arxiv.org/abs/2504.10433)|null|
+|**2025-04-14**|**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**|Jiaxin Lu et.al.|[2504.10414](http://arxiv.org/abs/2504.10414)|null|
+|**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350](http://arxiv.org/abs/2504.10350)|null|
+|**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
+|**2025-04-14**|**TT3D: Table Tennis 3D Reconstruction**|Thomas Gossard et.al.|[2504.10035](http://arxiv.org/abs/2504.10035)|null|
+|**2025-04-14**|**Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations**|Katja Ludwig et.al.|[2504.09953](http://arxiv.org/abs/2504.09953)|null|
+|**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
+|**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
+|**2025-04-13**|**EasyREG: Easy Depth-Based Markerless Registration and Tracking using Augmented Reality Device for Surgical Guidance**|Yue Yang et.al.|[2504.09498](http://arxiv.org/abs/2504.09498)|null|
+|**2025-04-12**|**SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow**|Qingyuan Wang et.al.|[2504.09160](http://arxiv.org/abs/2504.09160)|null|
 |**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
 |**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654](http://arxiv.org/abs/2504.08654)|null|
 |**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646](http://arxiv.org/abs/2504.08646)|null|
@@ -783,12 +793,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Hierarchical Relation-augmented Representation Generalization for Few-shot Action Recognition**|Hongyu Qu et.al.|[2504.10079](http://arxiv.org/abs/2504.10079)|null|
 |**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578](http://arxiv.org/abs/2504.08578)|null|
 |**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785](http://arxiv.org/abs/2504.07785)|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001](http://arxiv.org/abs/2504.07001)|null|
@@ -980,12 +991,14 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference**|Jianing Zheng et.al.|[2504.09561](http://arxiv.org/abs/2504.09561)|null|
+|**2025-04-13**|**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models**|Pooja Guhan et.al.|[2504.09472](http://arxiv.org/abs/2504.09472)|null|
 |**2025-04-11**|**STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation**|Mingyuan Shao et.al.|[2504.08504](http://arxiv.org/abs/2504.08504)|null|
 |**2025-04-11**|**Safe Data-Driven Predictive Control**|Amin Vahidi-Moghaddam et.al.|[2504.08188](http://arxiv.org/abs/2504.08188)|null|
 |**2025-04-10**|**STEI-PCN: an efficient pure convolutional network for traffic prediction via spatial-temporal encoding and inferring**|Kai Hu et.al.|[2504.08061](http://arxiv.org/abs/2504.08061)|null|
@@ -1370,7 +1383,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
