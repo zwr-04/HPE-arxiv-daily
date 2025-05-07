@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4520,7 +4520,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-30**|**MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection**|Qiushi Yang et.al.|[2505.00739](http://arxiv.org/abs/2505.00739)|null|
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-06**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Interpretable Spatial-Temporal Fusion Transformers: Multi-Output Prediction for Parametric Dynamical Systems with Time-Varying Inputs**|Shuwen Sun et.al.|[2505.00473](http://arxiv.org/abs/2505.00473)|null|
 |**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402](http://arxiv.org/abs/2505.00402)|null|
 |**2025-05-01**|**Fine-grained spatial-temporal perception for gas leak segmentation**|Xinlong Zhao et.al.|[2505.00295](http://arxiv.org/abs/2505.00295)|null|
