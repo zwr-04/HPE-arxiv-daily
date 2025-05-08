@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,11 +3461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
+|**2025-05-06**|**Polar Coordinate-Based 2D Pose Prior with Neural Distance Field**|Qi Gan et.al.|[2505.03445](http://arxiv.org/abs/2505.03445)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315](http://arxiv.org/abs/2505.03315)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690](http://arxiv.org/abs/2505.02690)|null|
 |**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501](http://arxiv.org/abs/2505.02501)|null|
-|**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|null|
+|**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|**[link](https://github.com/xiongjunguan/draco)**|
 |**2025-05-05**|**6D Pose Estimation on Spoons and Hands**|Kevin Tan et.al.|[2505.02335](http://arxiv.org/abs/2505.02335)|null|
 |**2025-05-04**|**Continuous Normalizing Flows for Uncertainty-Aware Human Pose Estimation**|Shipeng Liu et.al.|[2505.02287](http://arxiv.org/abs/2505.02287)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
@@ -4519,6 +4524,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730](http://arxiv.org/abs/2505.03730)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|**[link](https://github.com/linukc/dygenc)**|
+|**2025-05-06**|**Event-Triggered GAT-LSTM Framework for Attack Detection in Heating, Ventilation, and Air Conditioning Systems**|Zhenan Feng et.al.|[2505.03559](http://arxiv.org/abs/2505.03559)|null|
 |**2025-04-30**|**MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection**|Qiushi Yang et.al.|[2505.00739](http://arxiv.org/abs/2505.00739)|null|
 |**2025-05-06**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Interpretable Spatial-Temporal Fusion Transformers: Multi-Output Prediction for Parametric Dynamical Systems with Time-Varying Inputs**|Shuwen Sun et.al.|[2505.00473](http://arxiv.org/abs/2505.00473)|null|
