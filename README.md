@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis**|Zhizhuo Yin et.al.|[2505.08293](http://arxiv.org/abs/2505.08293)|null|
+|**2025-05-12**|**Sleep Position Classification using Transfer Learning for Bed-based Pressure Sensors**|Olivier Papillon et.al.|[2505.08111](http://arxiv.org/abs/2505.08111)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
@@ -879,12 +881,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561](http://arxiv.org/abs/2505.08561)|null|
 |**2025-05-10**|**A Short Overview of Multi-Modal Wi-Fi Sensing**|Zijian Zhao et.al.|[2505.06682](http://arxiv.org/abs/2505.06682)|null|
 |**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002](http://arxiv.org/abs/2505.06002)|null|
 |**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793](http://arxiv.org/abs/2505.04793)|null|
@@ -1093,12 +1096,16 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581](http://arxiv.org/abs/2505.08581)|**[link](https://github.com/jinlab-imvr/resurgsam2)**|
+|**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
+|**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235](http://arxiv.org/abs/2505.08235)|null|
+|**2025-05-12**|**VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network**|Lei Lei et.al.|[2505.07892](http://arxiv.org/abs/2505.07892)|null|
 |**2025-05-13**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
 |**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374](http://arxiv.org/abs/2505.07374)|**[link](https://github.com/eyesofworld/maritime-monitoring)**|
 |**2025-05-11**|**Kernel Dynamic Mode Decomposition For Sparse Reconstruction of Closable Koopman Operators**|Nishant Panda et.al.|[2505.06806](http://arxiv.org/abs/2505.06806)|null|
@@ -1519,7 +1526,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
