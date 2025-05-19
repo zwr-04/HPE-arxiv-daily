@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4560,7 +4560,7 @@ layout: default
 |**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
 |**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235](http://arxiv.org/abs/2505.08235)|null|
 |**2025-05-12**|**VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network**|Lei Lei et.al.|[2505.07892](http://arxiv.org/abs/2505.07892)|null|
-|**2025-05-13**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-16**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
 |**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374](http://arxiv.org/abs/2505.07374)|**[link](https://github.com/eyesofworld/maritime-monitoring)**|
 |**2025-05-11**|**Kernel Dynamic Mode Decomposition For Sparse Reconstruction of Closable Koopman Operators**|Nishant Panda et.al.|[2505.06806](http://arxiv.org/abs/2505.06806)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
