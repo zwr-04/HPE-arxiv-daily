@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -904,13 +904,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679](http://arxiv.org/abs/2505.10679)|null|
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
+|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679](http://arxiv.org/abs/2505.10679)|**[link](https://github.com/davelailai/sparse-st-gcn)**|
 |**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561](http://arxiv.org/abs/2505.08561)|null|
 |**2025-05-10**|**A Short Overview of Multi-Modal Wi-Fi Sensing**|Zijian Zhao et.al.|[2505.06682](http://arxiv.org/abs/2505.06682)|null|
@@ -1121,17 +1122,18 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
-|**2025-05-18**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
+|**2025-05-21**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
 |**2025-05-18**|**AFCL: Analytic Federated Continual Learning for Spatio-Temporal Invariance of Non-IID Data**|Jianheng Tang et.al.|[2505.12245](http://arxiv.org/abs/2505.12245)|null|
-|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|null|
-|**2025-05-16**|**UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**|Yuhang Liu et.al.|[2505.11654](http://arxiv.org/abs/2505.11654)|null|
+|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|**[link](https://github.com/yiqings/rvt)**|
+|**2025-05-21**|**UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**|Yuhang Liu et.al.|[2505.11654](http://arxiv.org/abs/2505.11654)|null|
 |**2025-05-16**|**Nearest Neighbor Multivariate Time Series Forecasting**|Huiliang Zhang et.al.|[2505.11625](http://arxiv.org/abs/2505.11625)|null|
 |**2025-05-16**|**Benchmarking Spatiotemporal Reasoning in LLMs and Reasoning Models: Capabilities and Challenges**|Pengrui Quan et.al.|[2505.11618](http://arxiv.org/abs/2505.11618)|null|
 |**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232](http://arxiv.org/abs/2505.11232)|null|
@@ -1562,7 +1564,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

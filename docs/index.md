@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4357,7 +4357,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679](http://arxiv.org/abs/2505.10679)|null|
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
+|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679](http://arxiv.org/abs/2505.10679)|**[link](https://github.com/davelailai/sparse-st-gcn)**|
 |**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561](http://arxiv.org/abs/2505.08561)|null|
 |**2025-05-10**|**A Short Overview of Multi-Modal Wi-Fi Sensing**|Zijian Zhao et.al.|[2505.06682](http://arxiv.org/abs/2505.06682)|null|
@@ -4572,11 +4573,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
-|**2025-05-18**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
+|**2025-05-21**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
 |**2025-05-18**|**AFCL: Analytic Federated Continual Learning for Spatio-Temporal Invariance of Non-IID Data**|Jianheng Tang et.al.|[2505.12245](http://arxiv.org/abs/2505.12245)|null|
-|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|null|
-|**2025-05-16**|**UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**|Yuhang Liu et.al.|[2505.11654](http://arxiv.org/abs/2505.11654)|null|
+|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|**[link](https://github.com/yiqings/rvt)**|
+|**2025-05-21**|**UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**|Yuhang Liu et.al.|[2505.11654](http://arxiv.org/abs/2505.11654)|null|
 |**2025-05-16**|**Nearest Neighbor Multivariate Time Series Forecasting**|Huiliang Zhang et.al.|[2505.11625](http://arxiv.org/abs/2505.11625)|null|
 |**2025-05-16**|**Benchmarking Spatiotemporal Reasoning in LLMs and Reasoning Models: Capabilities and Challenges**|Pengrui Quan et.al.|[2505.11618](http://arxiv.org/abs/2505.11618)|null|
 |**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232](http://arxiv.org/abs/2505.11232)|null|
