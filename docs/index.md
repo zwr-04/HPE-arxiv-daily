@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4584,7 +4584,7 @@ layout: default
 |**2025-05-21**|**Fast-wave slow-wave spectral deferred correction methods applied to the compressible Euler equations**|Alex Brown et.al.|[2505.15985](http://arxiv.org/abs/2505.15985)|null|
 |**2025-05-21**|**Leveraging Foundation Models for Multimodal Graph-Based Action Recognition**|Fatemeh Ziaeetabar et.al.|[2505.15192](http://arxiv.org/abs/2505.15192)|null|
 |**2025-05-20**|**Leveraging Multivariate Long-Term History Representation for Time Series Forecasting**|Huiliang Zhang et.al.|[2505.14737](http://arxiv.org/abs/2505.14737)|null|
-|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|null|
+|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|**[link](https://github.com/ysygmhdxw/tedtrajrec)**|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
 |**2025-05-21**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
 |**2025-05-18**|**AFCL: Analytic Federated Continual Learning for Spatio-Temporal Invariance of Non-IID Data**|Jianheng Tang et.al.|[2505.12245](http://arxiv.org/abs/2505.12245)|null|
