@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,11 +3461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
+|**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677](http://arxiv.org/abs/2505.17677)|null|
+|**2025-05-23**|**H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies**|Geeta Chandra Raju Bethala et.al.|[2505.17627](http://arxiv.org/abs/2505.17627)|null|
+|**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475](http://arxiv.org/abs/2505.17475)|**[link](https://github.com/uyoung-jeong/PoseBH)**|
 |**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633](http://arxiv.org/abs/2505.16633)|null|
 |**2025-05-22**|**A Shape-Aware Total Body Photography System for In-focus Surface Coverage Optimization**|Wei-Lun Huang et.al.|[2505.16228](http://arxiv.org/abs/2505.16228)|null|
 |**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144](http://arxiv.org/abs/2505.16144)|null|
-|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
+|**2025-05-25**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
 |**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Yihang Li et.al.|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440](http://arxiv.org/abs/2505.13440)|**[link](https://github.com/dwawayu/pensieve)**|
@@ -4364,6 +4369,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048](http://arxiv.org/abs/2505.18048)|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807](http://arxiv.org/abs/2505.17807)|null|
+|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
 |**2025-05-21**|**Leveraging Foundation Models for Multimodal Graph-Based Action Recognition**|Fatemeh Ziaeetabar et.al.|[2505.15192](http://arxiv.org/abs/2505.15192)|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346](http://arxiv.org/abs/2505.14346)|**[link](https://github.com/mf-zhang/ego-inertial-localization)**|
 |**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679](http://arxiv.org/abs/2505.10679)|**[link](https://github.com/davelailai/sparse-st-gcn)**|
@@ -4581,6 +4589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**MetaSTH-Sleep: Towards Effective Few-Shot Sleep Stage Classification with Spatial-Temporal Hypergraph Enhanced Meta-Learning**|Jingyu Li et.al.|[2505.17142](http://arxiv.org/abs/2505.17142)|null|
 |**2025-05-21**|**Fast-wave slow-wave spectral deferred correction methods applied to the compressible Euler equations**|Alex Brown et.al.|[2505.15985](http://arxiv.org/abs/2505.15985)|null|
 |**2025-05-21**|**Leveraging Foundation Models for Multimodal Graph-Based Action Recognition**|Fatemeh Ziaeetabar et.al.|[2505.15192](http://arxiv.org/abs/2505.15192)|null|
 |**2025-05-20**|**Leveraging Multivariate Long-Term History Representation for Time Series Forecasting**|Huiliang Zhang et.al.|[2505.14737](http://arxiv.org/abs/2505.14737)|null|
