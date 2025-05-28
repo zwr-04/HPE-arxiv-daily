@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**|Jue Gong et.al.|[2505.19742](http://arxiv.org/abs/2505.19742)|null|
+|**2025-05-26**|**HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment**|Ming Meng et.al.|[2505.19638](http://arxiv.org/abs/2505.19638)|null|
+|**2025-05-26**|**SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control**|Haoyu Zhao et.al.|[2505.19463](http://arxiv.org/abs/2505.19463)|null|
+|**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215](http://arxiv.org/abs/2505.19215)|null|
+|**2025-05-24**|**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**|Yahao Fan et.al.|[2505.18780](http://arxiv.org/abs/2505.18780)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490](http://arxiv.org/abs/2505.18490)|null|
+|**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342](http://arxiv.org/abs/2505.18342)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677](http://arxiv.org/abs/2505.17677)|null|
@@ -4369,7 +4377,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-23**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048](http://arxiv.org/abs/2505.18048)|null|
+|**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972](http://arxiv.org/abs/2505.19972)|null|
+|**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495](http://arxiv.org/abs/2505.19495)|null|
+|**2025-05-27**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048](http://arxiv.org/abs/2505.18048)|null|
 |**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807](http://arxiv.org/abs/2505.17807)|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674](http://arxiv.org/abs/2505.17674)|null|
 |**2025-05-21**|**Leveraging Foundation Models for Multimodal Graph-Based Action Recognition**|Fatemeh Ziaeetabar et.al.|[2505.15192](http://arxiv.org/abs/2505.15192)|null|
