@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465](http://arxiv.org/abs/2505.23465)|null|
+|**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439](http://arxiv.org/abs/2505.23439)|null|
+|**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|
+|**2025-05-29**|**HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions**|Shuolin Xu et.al.|[2505.22977](http://arxiv.org/abs/2505.22977)|**[link](https://github.com/vivoCameraResearch/Hyper-Motion)**|
+|**2025-05-28**|**TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Dynamic Objects**|Wen Yang et.al.|[2505.22882](http://arxiv.org/abs/2505.22882)|null|
+|**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**|Yanyi Qu et.al.|[2505.22555](http://arxiv.org/abs/2505.22555)|null|
 |**2025-05-28**|**LatentMove: Towards Complex Human Movement Video Generation**|Ashkan Taghipour et.al.|[2505.22046](http://arxiv.org/abs/2505.22046)|null|
 |**2025-05-28**|**Event-based Egocentric Human Pose Estimation in Dynamic Environment**|Wataru Ikeda et.al.|[2505.22007](http://arxiv.org/abs/2505.22007)|null|
@@ -938,12 +944,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012](http://arxiv.org/abs/2505.23012)|null|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972](http://arxiv.org/abs/2505.19972)|**[link](https://github.com/zhoukanglei/phi_aqa)**|
 |**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495](http://arxiv.org/abs/2505.19495)|null|
@@ -1163,12 +1170,16 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|null|
+|**2025-05-29**|**Bi-Residual Neural Network based Synchronous Motor Electrical Faults Diagnosis: Intra-link Layer Design for High-frequency Features**|Qianchao Wang et.al.|[2505.23097](http://arxiv.org/abs/2505.23097)|null|
+|**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012](http://arxiv.org/abs/2505.23012)|null|
+|**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
 |**2025-05-28**|**An Exact System Optimum Assignment Model for Transit Demand Management**|Xia Zhou et.al.|[2505.22241](http://arxiv.org/abs/2505.22241)|null|
 |**2025-05-27**|**Learning to See More: UAS-Guided Super-Resolution of Satellite Imagery for Precision Agriculture**|Arif Masrur et.al.|[2505.21746](http://arxiv.org/abs/2505.21746)|null|
@@ -1621,7 +1632,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
