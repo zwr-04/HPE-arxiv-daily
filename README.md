@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
+|**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636](http://arxiv.org/abs/2505.24636)|null|
+|**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411](http://arxiv.org/abs/2505.24411)|null|
+|**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
 |**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465](http://arxiv.org/abs/2505.23465)|null|
 |**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439](http://arxiv.org/abs/2505.23439)|**[link](https://github.com/minqili/viton-drr-main)**|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|
@@ -944,12 +948,13 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287](http://arxiv.org/abs/2505.24287)|null|
 |**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012](http://arxiv.org/abs/2505.23012)|**[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)**|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972](http://arxiv.org/abs/2505.19972)|**[link](https://github.com/zhoukanglei/phi_aqa)**|
@@ -1170,12 +1175,16 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
+|**2025-05-30**|**Bayesian Inference for Spatially-Temporally Misaligned Data Using Predictive Stacking**|Soumyakanti Pan et.al.|[2505.24397](http://arxiv.org/abs/2505.24397)|null|
+|**2025-05-30**|**Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem**|Katherine Tieu et.al.|[2505.24178](http://arxiv.org/abs/2505.24178)|null|
+|**2025-05-29**|**On study of cell proliferation and diffusion using nonlinear transforms of heat equation solutions**|Preet Mishra et.al.|[2505.23988](http://arxiv.org/abs/2505.23988)|null|
 |**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|**[link](https://github.com/gxym/vcapsbench)**|
 |**2025-05-29**|**Bi-Residual Neural Network based Synchronous Motor Electrical Faults Diagnosis: Intra-link Layer Design for High-frequency Features**|Qianchao Wang et.al.|[2505.23097](http://arxiv.org/abs/2505.23097)|null|
 |**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012](http://arxiv.org/abs/2505.23012)|**[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)**|
@@ -1632,7 +1641,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
