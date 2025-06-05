@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
+|**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
+|**2025-06-03**|**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering**|Xiaoyi Feng et.al.|[2506.02733](http://arxiv.org/abs/2506.02733)|null|
+|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-02**|**FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation**|Longyan Wu et.al.|[2506.01941](http://arxiv.org/abs/2506.01941)|null|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-06-02**|**SteerPose: Simultaneous Extrinsic Camera Calibration and Matching from Articulation**|Sang-Eun Lee et.al.|[2506.01691](http://arxiv.org/abs/2506.01691)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636](http://arxiv.org/abs/2505.24636)|null|
 |**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411](http://arxiv.org/abs/2505.24411)|null|
@@ -948,12 +958,22 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
+|**2025-06-03**|**Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025**|Qiaohui Chu et.al.|[2506.02550](http://arxiv.org/abs/2506.02550)|null|
+|**2025-06-03**|**Multi-level and Multi-modal Action Anticipation**|Seulgi Kim et.al.|[2506.02382](http://arxiv.org/abs/2506.02382)|null|
+|**2025-06-02**|**Efficient Egocentric Action Recognition with Multimodal Data**|Marco Calzavara et.al.|[2506.01757](http://arxiv.org/abs/2506.01757)|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608](http://arxiv.org/abs/2506.01608)|null|
+|**2025-06-02**|**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**|Nie Lin et.al.|[2506.01353](http://arxiv.org/abs/2506.01353)|null|
+|**2025-06-02**|**ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding**|Yiyang Zhou et.al.|[2506.01300](http://arxiv.org/abs/2506.01300)|null|
+|**2025-06-01**|**A Review on Coarse to Fine-Grained Animal Action Recognition**|Ali Zia et.al.|[2506.01214](http://arxiv.org/abs/2506.01214)|null|
+|**2025-06-01**|**MOOSE: Pay Attention to Temporal Dynamics for Video Understanding via Optical Flows**|Hong Nguyen et.al.|[2506.01119](http://arxiv.org/abs/2506.01119)|null|
+|**2025-06-01**|**3D Skeleton-Based Action Recognition: A Review**|Mengyuan Liu et.al.|[2506.00915](http://arxiv.org/abs/2506.00915)|null|
 |**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287](http://arxiv.org/abs/2505.24287)|null|
 |**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012](http://arxiv.org/abs/2505.23012)|**[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)**|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
@@ -1175,12 +1195,20 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-03**|**Large-scale Self-supervised Video Foundation Model for Intelligent Surgery**|Shu Yang et.al.|[2506.02692](http://arxiv.org/abs/2506.02692)|null|
+|**2025-06-03**|**Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification**|Shuang Li et.al.|[2506.02439](http://arxiv.org/abs/2506.02439)|null|
+|**2025-06-01**|**Alzheimers Disease Classification in Functional MRI With 4D Joint Temporal-Spatial Kernels in Novel 4D CNN Model**|Javier Salazar Cavazos et.al.|[2506.02060](http://arxiv.org/abs/2506.02060)|null|
+|**2025-06-02**|**Automated Manifold Learning for Reduced Order Modeling**|Imran Nasim et.al.|[2506.01741](http://arxiv.org/abs/2506.01741)|null|
+|**2025-06-02**|**STSA: Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation**|Zenghao Guan et.al.|[2506.01327](http://arxiv.org/abs/2506.01327)|null|
+|**2025-06-01**|**Generalized nearest-neighbor distance and Hawkes point process modeling applied to mining induced seismicity**|Mohammadamin Sedghizadeh et.al.|[2506.00768](http://arxiv.org/abs/2506.00768)|null|
+|**2025-05-31**|**Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation**|Muhammad Adnan et.al.|[2506.00329](http://arxiv.org/abs/2506.00329)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-30**|**Bayesian Inference for Spatially-Temporally Misaligned Data Using Predictive Stacking**|Soumyakanti Pan et.al.|[2505.24397](http://arxiv.org/abs/2505.24397)|null|
 |**2025-05-30**|**Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem**|Katherine Tieu et.al.|[2505.24178](http://arxiv.org/abs/2505.24178)|null|
@@ -1641,7 +1669,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
