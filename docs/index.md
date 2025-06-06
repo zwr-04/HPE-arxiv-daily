@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
 |**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
@@ -4411,6 +4414,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885](http://arxiv.org/abs/2506.03885)|null|
+|**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481](http://arxiv.org/abs/2506.03481)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
 |**2025-06-03**|**Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025**|Qiaohui Chu et.al.|[2506.02550](http://arxiv.org/abs/2506.02550)|null|
 |**2025-06-03**|**Multi-level and Multi-modal Action Anticipation**|Seulgi Kim et.al.|[2506.02382](http://arxiv.org/abs/2506.02382)|null|
@@ -4646,6 +4651,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**SVD-Based Graph Fractional Fourier Transform on Directed Graphs and Its Application**|Lu Li et.al.|[2506.03925](http://arxiv.org/abs/2506.03925)|null|
+|**2025-06-04**|**A Model-Data Dual-Driven Resource Allocation Scheme for IREE Oriented 6G Networks**|Tao Yu et.al.|[2506.03508](http://arxiv.org/abs/2506.03508)|null|
+|**2025-06-03**|**Sub-Scalp EEG for Sensorimotor Brain-Computer Interface**|Timothy B Mahoney et.al.|[2506.03423](http://arxiv.org/abs/2506.03423)|null|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
 |**2025-06-03**|**Large-scale Self-supervised Video Foundation Model for Intelligent Surgery**|Shu Yang et.al.|[2506.02692](http://arxiv.org/abs/2506.02692)|null|
 |**2025-06-03**|**Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification**|Shuang Li et.al.|[2506.02439](http://arxiv.org/abs/2506.02439)|null|
