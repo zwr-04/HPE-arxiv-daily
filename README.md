@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
+|**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931](http://arxiv.org/abs/2506.04931)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|null|
+|**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680](http://arxiv.org/abs/2506.04680)|null|
+|**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561](http://arxiv.org/abs/2506.04561)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444](http://arxiv.org/abs/2506.04444)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
@@ -961,7 +970,7 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -1200,12 +1209,18 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
+|**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950](http://arxiv.org/abs/2506.04950)|null|
+|**2025-06-05**|**DAS-MAE: A self-supervised pre-training framework for universal and high-performance representation learning of distributed fiber-optic acoustic sensing**|Junyi Duan et.al.|[2506.04552](http://arxiv.org/abs/2506.04552)|null|
+|**2025-06-04**|**Reconfigurable Ultrafast Thermal Metamaterial Pixel Arrays by Dual-Gate Graphene Transistors**|Yibai Zhong et.al.|[2506.04372](http://arxiv.org/abs/2506.04372)|null|
+|**2025-06-04**|**Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark**|Ziming Cheng et.al.|[2506.04280](http://arxiv.org/abs/2506.04280)|null|
 |**2025-06-04**|**SVD-Based Graph Fractional Fourier Transform on Directed Graphs and Its Application**|Lu Li et.al.|[2506.03925](http://arxiv.org/abs/2506.03925)|null|
 |**2025-06-04**|**A Model-Data Dual-Driven Resource Allocation Scheme for IREE Oriented 6G Networks**|Tao Yu et.al.|[2506.03508](http://arxiv.org/abs/2506.03508)|null|
 |**2025-06-03**|**Sub-Scalp EEG for Sensorimotor Brain-Computer Interface**|Timothy B Mahoney et.al.|[2506.03423](http://arxiv.org/abs/2506.03423)|null|
@@ -1677,7 +1692,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

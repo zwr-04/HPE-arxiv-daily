@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
+|**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931](http://arxiv.org/abs/2506.04931)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|null|
+|**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680](http://arxiv.org/abs/2506.04680)|null|
+|**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561](http://arxiv.org/abs/2506.04561)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444](http://arxiv.org/abs/2506.04444)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
@@ -4651,6 +4660,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
+|**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950](http://arxiv.org/abs/2506.04950)|null|
+|**2025-06-05**|**DAS-MAE: A self-supervised pre-training framework for universal and high-performance representation learning of distributed fiber-optic acoustic sensing**|Junyi Duan et.al.|[2506.04552](http://arxiv.org/abs/2506.04552)|null|
+|**2025-06-04**|**Reconfigurable Ultrafast Thermal Metamaterial Pixel Arrays by Dual-Gate Graphene Transistors**|Yibai Zhong et.al.|[2506.04372](http://arxiv.org/abs/2506.04372)|null|
+|**2025-06-04**|**Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark**|Ziming Cheng et.al.|[2506.04280](http://arxiv.org/abs/2506.04280)|null|
 |**2025-06-04**|**SVD-Based Graph Fractional Fourier Transform on Directed Graphs and Its Application**|Lu Li et.al.|[2506.03925](http://arxiv.org/abs/2506.03925)|null|
 |**2025-06-04**|**A Model-Data Dual-Driven Resource Allocation Scheme for IREE Oriented 6G Networks**|Tao Yu et.al.|[2506.03508](http://arxiv.org/abs/2506.03508)|null|
 |**2025-06-03**|**Sub-Scalp EEG for Sensorimotor Brain-Computer Interface**|Timothy B Mahoney et.al.|[2506.03423](http://arxiv.org/abs/2506.03423)|null|
