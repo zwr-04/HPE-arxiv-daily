@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
+|**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934](http://arxiv.org/abs/2506.09934)|null|
+|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895](http://arxiv.org/abs/2506.09895)|null|
+|**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
+|**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699](http://arxiv.org/abs/2506.09699)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
+|**2025-06-11**|**Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation**|Chendong Xin et.al.|[2506.09384](http://arxiv.org/abs/2506.09384)|null|
+|**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
+|**2025-06-10**|**Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization**|Sepehr Samavi et.al.|[2506.08851](http://arxiv.org/abs/2506.08851)|null|
+|**2025-06-12**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
 |**2025-06-09**|**PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation**|Wei Yao et.al.|[2506.07456](http://arxiv.org/abs/2506.07456)|null|
 |**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338](http://arxiv.org/abs/2506.07338)|null|
@@ -985,12 +995,16 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650](http://arxiv.org/abs/2506.09650)|null|
+|**2025-06-11**|**Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation**|Ye Niu et.al.|[2506.09422](http://arxiv.org/abs/2506.09422)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
+|**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345](http://arxiv.org/abs/2506.09345)|null|
 |**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216](http://arxiv.org/abs/2506.07216)|null|
 |**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631](http://arxiv.org/abs/2506.06631)|null|
 |**2025-06-05**|**Robustness Evaluation for Video Models with Reinforcement Learning**|Ashwin Ramesh Babu et.al.|[2506.05431](http://arxiv.org/abs/2506.05431)|null|
@@ -1227,12 +1241,18 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|null|
+|**2025-06-12**|**STOAT: Spatial-Temporal Probabilistic Causal Inference Network**|Yang Yang et.al.|[2506.09544](http://arxiv.org/abs/2506.09544)|null|
+|**2025-06-11**|**Implicit unified gas kinetic particle method for steady-state solution of multiscale phonon transport**|Hongyu Liu et.al.|[2506.09465](http://arxiv.org/abs/2506.09465)|null|
+|**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345](http://arxiv.org/abs/2506.09345)|null|
+|**2025-06-11**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309](http://arxiv.org/abs/2506.08309)|null|
+|**2025-06-10**|**AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data**|Tuan Truong et.al.|[2506.08306](http://arxiv.org/abs/2506.08306)|null|
 |**2025-06-08**|**Regularized Adaptive Graph Learning for Large-Scale Traffic Forecasting**|Kaiqi Wu et.al.|[2506.07179](http://arxiv.org/abs/2506.07179)|null|
 |**2025-06-07**|**Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations**|Fred Xu et.al.|[2506.06907](http://arxiv.org/abs/2506.06907)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
@@ -1715,7 +1735,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
