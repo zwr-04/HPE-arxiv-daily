@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
+|**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
+|**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514](http://arxiv.org/abs/2506.23514)|null|
+|**2025-06-29**|**VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions**|Marko Mihajlovic et.al.|[2506.23236](http://arxiv.org/abs/2506.23236)|null|
+|**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
+|**2025-06-28**|**MagShield: Towards Better Robustness in Sparse Inertial Motion Capture Under Magnetic Disturbances**|Yunzhe Shao et.al.|[2506.22907](http://arxiv.org/abs/2506.22907)|null|
+|**2025-06-28**|**Deterministic Object Pose Confidence Region Estimation**|Jinghao Wang et.al.|[2506.22720](http://arxiv.org/abs/2506.22720)|null|
 |**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
 |**2025-06-27**|**Generating Attribute-Aware Human Motions from Textual Prompt**|Xinghan Wang et.al.|[2506.21912](http://arxiv.org/abs/2506.21912)|null|
@@ -4757,6 +4765,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-27**|**Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation**|Qiyue Gao et.al.|[2506.21876](http://arxiv.org/abs/2506.21876)|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
 |**2025-06-26**|**Transformer-Based Spatial-Temporal Counterfactual Outcomes Estimation**|He Li et.al.|[2506.21154](http://arxiv.org/abs/2506.21154)|null|
