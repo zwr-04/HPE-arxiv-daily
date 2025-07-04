@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
+|**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
+|**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206](http://arxiv.org/abs/2507.01206)|null|
+|**2025-07-01**|**Box Pose and Shape Estimation and Domain Adaptation for Large-Scale Warehouse Automation**|Xihang Yu et.al.|[2507.00984](http://arxiv.org/abs/2507.00984)|null|
+|**2025-07-01**|**Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters**|Hendric Voss et.al.|[2507.00792](http://arxiv.org/abs/2507.00792)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-07-01**|**A Unified Transformer-Based Framework with Pretraining For Whole Body Grasping Motion Generation**|Edward Effendy et.al.|[2507.00676](http://arxiv.org/abs/2507.00676)|null|
+|**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
@@ -4507,6 +4517,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Variational Graph Convolutional Neural Networks**|Illia Oleksiienko et.al.|[2507.01699](http://arxiv.org/abs/2507.01699)|null|
+|**2025-07-01**|**Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment**|Kai Zhou et.al.|[2507.00566](http://arxiv.org/abs/2507.00566)|null|
 |**2025-06-27**|**Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition**|Wenhan Wu et.al.|[2506.22179](http://arxiv.org/abs/2506.22179)|null|
 |**2025-06-26**|**EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception**|Sanjoy Chowdhury et.al.|[2506.21080](http://arxiv.org/abs/2506.21080)|null|
 |**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Joerg Deigmoeller et.al.|[2506.20373](http://arxiv.org/abs/2506.20373)|null|
@@ -4765,6 +4777,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
+|**2025-06-30**|**Interpretable AI for Time-Series: Multi-Model Heatmap Fusion with Global Attention and NLP-Generated Explanations**|Jiztom Kavalakkatt Francis et.al.|[2507.00234](http://arxiv.org/abs/2507.00234)|null|
+|**2025-06-30**|**Generating Heterogeneous Multi-dimensional Data : A Comparative Study**|Corbeau Michael et.al.|[2507.00090](http://arxiv.org/abs/2507.00090)|null|
+|**2025-06-25**|**Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**|Tianliang Yao et.al.|[2507.00051](http://arxiv.org/abs/2507.00051)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-27**|**Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation**|Qiyue Gao et.al.|[2506.21876](http://arxiv.org/abs/2506.21876)|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
