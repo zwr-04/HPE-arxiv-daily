@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-15**|**Joint angle model based learning to refine kinematic human pose estimation**|Chang Peng et.al.|[2507.11075](http://arxiv.org/abs/2507.11075)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
 |**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-14**|**ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users**|Xiangyu Yin et.al.|[2507.10223](http://arxiv.org/abs/2507.10223)|null|
@@ -4555,6 +4557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Women Sport Actions Dataset for Visual Classification Using Small Scale Training Data**|Palash Ray et.al.|[2507.10969](http://arxiv.org/abs/2507.10969)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
 |**2025-07-09**|**Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**|Xu Shaowu et.al.|[2507.06603](http://arxiv.org/abs/2507.06603)|null|
 |**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
@@ -4818,6 +4821,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-14**|**Eight-fold classification of superconducting orders**|Alexander V. Balatsky et.al.|[2507.10079](http://arxiv.org/abs/2507.10079)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
 |**2025-07-13**|**Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention**|Pengyu Liu et.al.|[2507.09512](http://arxiv.org/abs/2507.09512)|null|
