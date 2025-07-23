@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3461,6 +3461,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
+|**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
+|**2025-07-20**|**3-Dimensional CryoEM Pose Estimation and Shift Correction Pipeline**|Kaishva Chintan Shah et.al.|[2507.14924](http://arxiv.org/abs/2507.14924)|null|
+|**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
+|**2025-07-19**|**Uncertainty-aware Probabilistic 3D Human Motion Forecasting via Invertible Networks**|Yue Ma et.al.|[2507.14694](http://arxiv.org/abs/2507.14694)|null|
+|**2025-07-22**|**AI-Enhanced Precision in Sport Taekwondo: Increasing Fairness, Speed, and Trust in Competition (FST.ai)**|Keivan Shariatmadar et.al.|[2507.14657](http://arxiv.org/abs/2507.14657)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
 |**2025-07-21**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
@@ -4845,6 +4852,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
+|**2025-07-19**|**Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition**|Xuetao Lin et.al.|[2507.14698](http://arxiv.org/abs/2507.14698)|null|
 |**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801](http://arxiv.org/abs/2507.13801)|null|
 |**2025-07-17**|**Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand**|Severin Diepolder et.al.|[2507.13100](http://arxiv.org/abs/2507.13100)|null|
 |**2025-07-17**|**Impact Analysis of Optimal EV Bi-directional Charging with Spatial-temporal Constraints**|Xian-Long Lee et.al.|[2507.12877](http://arxiv.org/abs/2507.12877)|null|
@@ -4852,7 +4861,7 @@ layout: default
 |**2025-07-15**|**Clean numerical simulation (CNS) of three-dimensional turbulent Kolmogorov flow**|Shijie Qin et.al.|[2507.11805](http://arxiv.org/abs/2507.11805)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-14**|**Eight-fold classification of superconducting orders**|Alexander V. Balatsky et.al.|[2507.10079](http://arxiv.org/abs/2507.10079)|null|
-|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
+|**2025-07-22**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
 |**2025-07-13**|**Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention**|Pengyu Liu et.al.|[2507.09512](http://arxiv.org/abs/2507.09512)|null|
 |**2025-07-12**|**MVPinn: Integrating Milne-Eddington Inversion with Physics-Informed Neural Networks for GST/NIRIS Observations**|Qin Li et.al.|[2507.09430](http://arxiv.org/abs/2507.09430)|null|
 |**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[2507.08563](http://arxiv.org/abs/2507.08563)|null|
