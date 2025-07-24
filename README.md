@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**HOComp: Interaction-Aware Human-Object Composition**|Dong Liang et.al.|[2507.16813](http://arxiv.org/abs/2507.16813)|null|
+|**2025-07-22**|**Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers**|Batu Candan et.al.|[2507.16214](http://arxiv.org/abs/2507.16214)|null|
+|**2025-07-22**|**Design and Optimization of Wearables for Human Motion Energy Harvesting**|Weijia Peng et.al.|[2507.16157](http://arxiv.org/abs/2507.16157)|null|
+|**2025-07-21**|**Improving Personalized Image Generation through Social Context Feedback**|Parul Gupta et.al.|[2507.16095](http://arxiv.org/abs/2507.16095)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
@@ -1131,12 +1135,14 @@
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition**|Zefeng Qian et.al.|[2507.16287](http://arxiv.org/abs/2507.16287)|null|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-16**|**Predicting Soccer Penalty Kick Direction Using Human Action Recognition**|David Freire-Obregón et.al.|[2507.12617](http://arxiv.org/abs/2507.12617)|null|
 |**2025-07-18**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
@@ -1401,12 +1407,14 @@
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Spatial Temporal Modelling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark**|Xu Yang et.al.|[2507.16206](http://arxiv.org/abs/2507.16206)|null|
+|**2025-07-21**|**Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network**|Xi Yang et.al.|[2507.16020](http://arxiv.org/abs/2507.16020)|null|
 |**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
 |**2025-07-19**|**Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition**|Xuetao Lin et.al.|[2507.14698](http://arxiv.org/abs/2507.14698)|null|
 |**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801](http://arxiv.org/abs/2507.13801)|null|
@@ -1951,7 +1959,7 @@
 |**2024-09-02**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447](http://arxiv.org/abs/2408.12447)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
